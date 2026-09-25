@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "products": [
+    {
+      "slug": "mytrainx-start",
+      "title": "MyTrainX Start — 4 Semanas",
+      "type": "program",
+      "commercial_model": "master_included_or_one_time",
+      "status": "production",
+      "rights": "owned",
+      "watermark": "brand_and_content_id",
+      "source_content": [
+        "mtx-start-4-weeks-v1"
+      ]
+    },
+    {
+      "slug": "nutrition-fundamentals",
+      "title": "Fundamentos de Nutrição",
+      "type": "ebook_course",
+      "commercial_model": "registered_or_master",
+      "status": "production",
+      "rights": "owned",
+      "watermark": "brand_and_content_id",
+      "source_content": [
+        "mtx-nutrition-fundamentals-2026"
+      ]
+    },
+    {
+      "slug": "training-fundamentals",
+      "title": "Fundamentos do Treino",
+      "type": "ebook_course",
+      "commercial_model": "registered_or_master",
+      "status": "production",
+      "rights": "owned",
+      "watermark": "brand_and_content_id",
+      "source_content": [
+        "mtx-training-fundamentals-2026"
+      ]
+    },
+    {
+      "slug": "mytrainx-kitchen-launch",
+      "title": "MyTrainX Kitchen — Starter Collection",
+      "type": "recipe_pack",
+      "commercial_model": "mixed",
+      "status": "production",
+      "rights": "owned",
+      "watermark": "brand_and_content_id",
+      "source_content": [
+        "12 initial structured recipes"
+      ]
+    }
+  ]
+}
