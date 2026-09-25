@@ -912,16 +912,24 @@
       "relevance_status": "core",
       "rights": {
         "basis": "public_domain",
-        "verification_status": "pending"
+        "verification_status": "verified",
+        "license": "Unlicense",
+        "license_url": "https://github.com/wrkout/exercises.json/blob/master/LICENSE.md",
+        "verified_at": "2026-09-25"
       },
-      "ingestion_policy": "metadata",
-      "ai_policy_default": "metadata_only",
+      "ingestion_policy": "full",
+      "ai_policy_default": "retrievable",
       "domain_tags": [
         "training",
         "exercises"
       ],
       "clinical_review_required": false,
-      "status": "active"
+      "status": "active",
+      "metadata": {
+        "verified_repository_license": "Unlicense",
+        "source_default_branch": "master",
+        "import_strategy": "normalize_all_exercise.json records; preserve upstream provenance; MyTrainX editorial review required before publication"
+      }
     },
     {
       "slug": "open-food-facts",
