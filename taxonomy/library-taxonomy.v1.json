@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "date": "2026-09-25",
+  "dimensions": {
+    "domain": [
+      "training",
+      "nutrition",
+      "recipes",
+      "wellness",
+      "knowledge"
+    ],
+    "topic": [
+      "strength-training",
+      "hypertrophy",
+      "conditioning",
+      "hiit",
+      "calisthenics",
+      "core-training",
+      "functional-training",
+      "home-workout",
+      "mobility",
+      "yoga",
+      "recovery",
+      "mindset",
+      "nutrition-fundamentals",
+      "macronutrients",
+      "meal-planning",
+      "hydration",
+      "weight-management",
+      "healthy-recipes"
+    ],
+    "goal": [
+      "muscle-gain",
+      "fat-loss",
+      "improve-conditioning",
+      "improve-mobility",
+      "learn-skill",
+      "general-health",
+      "consistency"
+    ],
+    "audience": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "equipment": [
+      "bodyweight",
+      "dumbbells",
+      "kettlebell",
+      "resistance-bands",
+      "gym-equipment"
+    ],
+    "skill": [
+      "handstand",
+      "planche",
+      "front-lever",
+      "back-lever"
+    ],
+    "dietary": [
+      "high-protein",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "safety": [
+      "medical-review-required",
+      "scientific-review-required",
+      "rights-review-required"
+    ]
+  },
+  "rules": [
+    "Use stable slugs as canonical values; display labels are localized separately.",
+    "A source/content item may have multiple terms, but one domain should normally be primary.",
+    "Safety flags never imply medical advice; they gate review/publication.",
+    "Do not create taxonomy terms from raw folder names without normalization."
+  ]
+}
