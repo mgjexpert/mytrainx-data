@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/food.schema.json",
+  "title": "MyTrainX Food",
+  "type": "object",
+  "required": [
+    "slug",
+    "name",
+    "locale",
+    "source",
+    "nutrients_basis",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "locale": {
+      "enum": [
+        "pt-BR",
+        "pt-PT",
+        "en",
+        "es"
+      ]
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "food_group": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "provider",
+        "external_id"
+      ],
+      "properties": {
+        "provider": {
+          "type": "string"
+        },
+        "external_id": {
+          "type": "string"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "nutrients_basis": {
+      "enum": [
+        "per_100g",
+        "per_100ml"
+      ]
+    },
+    "nutrients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "nutrient",
+          "amount",
+          "unit"
+        ],
+        "properties": {
+          "nutrient": {
+            "type": "string"
+          },
+          "amount": {
+            "type": "number"
+          },
+          "unit": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "default_serving": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "review",
+        "published",
+        "archived"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}
