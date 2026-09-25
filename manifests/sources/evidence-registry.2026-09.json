@@ -1,0 +1,111 @@
+{
+  "version": "2026.09",
+  "checked_at": "2026-09-25",
+  "sources": [
+    {
+      "id": "acsm-resistance-training-2026",
+      "organization": "American College of Sports Medicine",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews",
+      "class": "position_stand",
+      "published": "2026-03",
+      "population": "healthy adults",
+      "jurisdiction": "international_professional_guidance",
+      "status": "current",
+      "url": "https://acsm.org/resistance-training-guidelines-update-2026/",
+      "topics": [
+        "resistance-training",
+        "strength",
+        "hypertrophy",
+        "power",
+        "physical-function"
+      ],
+      "editorial_use": "evidence_anchor",
+      "copyright_use": "cite_and_summarize_only_unless_separately_licensed"
+    },
+    {
+      "id": "who-physical-activity-2020-current-2026",
+      "organization": "World Health Organization",
+      "title": "WHO Guidelines on Physical Activity and Sedentary Behaviour",
+      "class": "official_guideline",
+      "published": "2020-11-25",
+      "population": "life course",
+      "jurisdiction": "global",
+      "status": "current_as_checked_2026-09-25",
+      "url": "https://www.who.int/publications/i/item/9789240014886",
+      "topics": [
+        "physical-activity",
+        "sedentary-behaviour",
+        "public-health"
+      ],
+      "editorial_use": "evidence_anchor"
+    },
+    {
+      "id": "us-physical-activity-guidelines-2e-current-2026",
+      "organization": "U.S. Office of Disease Prevention and Health Promotion",
+      "title": "Physical Activity Guidelines for Americans, Second Edition",
+      "class": "official_guideline",
+      "published": "2018",
+      "population": "United States population",
+      "jurisdiction": "US",
+      "status": "current_as_checked_2026-09-25",
+      "url": "https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/current-guidelines",
+      "topics": [
+        "physical-activity",
+        "public-health"
+      ],
+      "editorial_use": "secondary_evidence_anchor"
+    },
+    {
+      "id": "dga-2025-2030",
+      "organization": "U.S. Department of Agriculture / U.S. Department of Health and Human Services",
+      "title": "Dietary Guidelines for Americans, 2025–2030",
+      "class": "official_guideline",
+      "published": "2026-01-07",
+      "population": "United States population",
+      "jurisdiction": "US",
+      "status": "current",
+      "url": "https://www.fna.usda.gov/cnpp/dietary-guidelines-americans",
+      "topics": [
+        "nutrition",
+        "dietary-patterns"
+      ],
+      "editorial_use": "jurisdiction_specific_reference"
+    },
+    {
+      "id": "brasil-guia-alimentar",
+      "organization": "Ministério da Saúde — Brasil",
+      "title": "Guia Alimentar para a População Brasileira — 2ª edição",
+      "class": "official_guideline",
+      "published": "2014",
+      "reprint_status": "reimpresso em 2026",
+      "population": "população brasileira",
+      "jurisdiction": "BR",
+      "status": "current_official_reference_as_checked_2026-09-25",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares",
+      "topics": [
+        "nutrition",
+        "food-processing",
+        "food-culture",
+        "public-health"
+      ],
+      "editorial_use": "primary_brazil_nutrition_reference"
+    },
+    {
+      "id": "usda-fooddata-central",
+      "organization": "USDA Agricultural Research Service",
+      "title": "FoodData Central",
+      "class": "open_data",
+      "population": "food composition",
+      "jurisdiction": "US_data_global_utility",
+      "status": "current",
+      "url": "https://fdc.nal.usda.gov/",
+      "topics": [
+        "foods",
+        "nutrients",
+        "food-composition"
+      ],
+      "license": "CC0-1.0/public-domain",
+      "editorial_use": "canonical_nutrient_data_candidate"
+    }
+  ]
+}
