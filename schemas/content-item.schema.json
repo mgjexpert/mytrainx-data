@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/content-item.schema.json",
+  "title": "MyTrainX Content Item",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "content_type",
+    "language",
+    "source",
+    "access_policy",
+    "ai_index_policy",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "content_type": {
+      "enum": [
+        "workout_video",
+        "educational_video",
+        "ebook_pdf",
+        "manual",
+        "recipe",
+        "article",
+        "checklist",
+        "program_material",
+        "event_live",
+        "audio",
+        "image"
+      ]
+    },
+    "language": {
+      "enum": [
+        "pt-BR",
+        "pt-PT",
+        "en",
+        "es"
+      ]
+    },
+    "summary": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "provider"
+      ],
+      "properties": {
+        "provider": {
+          "enum": [
+            "google_drive",
+            "upload",
+            "external",
+            "generated"
+          ]
+        },
+        "external_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      },
+      "additionalProperties": false
+    },
+    "thumbnail_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri"
+    },
+    "access_policy": {
+      "enum": [
+        "public",
+        "registered",
+        "owned_product",
+        "master",
+        "staff_only"
+      ]
+    },
+    "ai_index_policy": {
+      "enum": [
+        "none",
+        "metadata_only",
+        "retrievable"
+      ]
+    },
+    "product_slugs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "status": {
+      "enum": [
+        "inventory",
+        "needs_ingestion",
+        "indexed",
+        "published",
+        "archived"
+      ]
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}
