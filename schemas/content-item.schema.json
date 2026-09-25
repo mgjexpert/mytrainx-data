@@ -22,6 +22,12 @@
       "type": "string",
       "minLength": 1
     },
+    "subtitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
     "content_type": {
       "enum": [
         "workout_video",
@@ -51,6 +57,49 @@
         "null"
       ]
     },
+    "audience": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "difficulty": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "beginner",
+        "intermediate",
+        "advanced",
+        "all_levels",
+        null
+      ]
+    },
+    "estimated_duration_seconds": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "reading_time_minutes": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "downloadable": {
+      "type": "boolean"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "sort_priority": {
+      "type": "integer"
+    },
     "tags": {
       "type": "array",
       "items": {
@@ -76,10 +125,29 @@
             "google_drive",
             "upload",
             "external",
-            "generated"
+            "generated",
+            "github",
+            "owned_media",
+            "usda_fdc",
+            "open_food_facts",
+            "who",
+            "nhs",
+            "gov_br"
+          ]
+        },
+        "collection_slug": {
+          "type": [
+            "string",
+            "null"
           ]
         },
         "external_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "path": {
           "type": [
             "string",
             "null"
@@ -91,6 +159,25 @@
             "null"
           ],
           "format": "uri"
+        },
+        "mime_type": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "size_bytes": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "checksum_sha256": {
+          "type": [
+            "string",
+            "null"
+          ]
         }
       },
       "additionalProperties": false
@@ -125,6 +212,30 @@
       },
       "uniqueItems": true
     },
+    "rights_status": {
+      "enum": [
+        "unverified",
+        "pending",
+        "verified",
+        "restricted",
+        "expired",
+        "disputed"
+      ]
+    },
+    "review_flags": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "editorial",
+          "scientific",
+          "legal",
+          "safety",
+          "nutrition",
+          "exercise"
+        ]
+      },
+      "uniqueItems": true
+    },
     "status": {
       "enum": [
         "inventory",
@@ -137,6 +248,13 @@
     "version": {
       "type": "integer",
       "minimum": 1
+    },
+    "published_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
     },
     "metadata": {
       "type": "object"
