@@ -1,0 +1,147 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/recipe.schema.json",
+  "title": "MyTrainX Recipe",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "language",
+    "ingredients",
+    "steps",
+    "access_policy",
+    "ai_index_policy",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "language": {
+      "enum": [
+        "pt-BR",
+        "pt-PT",
+        "en",
+        "es"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "meal_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "servings": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "quantity": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "unit": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "steps": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "allergens": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "nutrition": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Only populate when values are verified and source quality is known."
+    },
+    "access_policy": {
+      "enum": [
+        "public",
+        "registered",
+        "owned_product",
+        "master",
+        "staff_only"
+      ]
+    },
+    "ai_index_policy": {
+      "enum": [
+        "none",
+        "metadata_only",
+        "retrievable"
+      ]
+    },
+    "status": {
+      "enum": [
+        "inventory",
+        "needs_ingestion",
+        "indexed",
+        "published",
+        "archived"
+      ]
+    },
+    "source": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}
