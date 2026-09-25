@@ -1,0 +1,180 @@
+{
+  "version": "2.0",
+  "verticals": [
+    {
+      "id": "training",
+      "label": "Training",
+      "children": [
+        "fundamentals",
+        "strength-hypertrophy",
+        "hiit-conditioning",
+        "home-training",
+        "functional-training",
+        "core",
+        "mobility-recovery"
+      ]
+    },
+    {
+      "id": "calisthenics-skills",
+      "label": "Calisthenics & Skills",
+      "children": [
+        "foundations",
+        "handstand",
+        "front-lever",
+        "back-lever",
+        "planche"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "label": "Nutrition",
+      "children": [
+        "fundamentals",
+        "macronutrients",
+        "meal-planning",
+        "hydration",
+        "weight-management-education"
+      ]
+    },
+    {
+      "id": "recipes",
+      "label": "Recipes",
+      "children": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snacks",
+        "soups",
+        "salads",
+        "desserts",
+        "drinks",
+        "meal-prep",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "wellness",
+      "label": "Wellness & Habits",
+      "children": [
+        "sleep-recovery",
+        "consistency",
+        "mindfulness",
+        "yoga",
+        "habits"
+      ]
+    },
+    {
+      "id": "programs",
+      "label": "Programs & Challenges",
+      "children": [
+        "wkt",
+        "start",
+        "core-21",
+        "home-30",
+        "hiit-pathways",
+        "skills-pathways"
+      ]
+    },
+    {
+      "id": "resources",
+      "label": "Guides & Resources",
+      "children": [
+        "ebooks",
+        "manuals",
+        "checklists",
+        "worksheets",
+        "shopping-lists",
+        "program-support"
+      ]
+    }
+  ],
+  "facets": {
+    "goal": [
+      "general-fitness",
+      "strength",
+      "hypertrophy",
+      "fat-loss-education",
+      "conditioning",
+      "mobility",
+      "skill",
+      "recovery",
+      "nutrition-education",
+      "habit-building"
+    ],
+    "difficulty": [
+      "beginner",
+      "intermediate",
+      "advanced",
+      "all-levels"
+    ],
+    "location": [
+      "home",
+      "gym",
+      "outdoor",
+      "anywhere"
+    ],
+    "equipment": [
+      "none",
+      "bodyweight",
+      "dumbbell",
+      "barbell",
+      "kettlebell",
+      "bands",
+      "machine",
+      "suspension",
+      "step",
+      "other"
+    ],
+    "format": [
+      "article",
+      "lesson",
+      "workout-video",
+      "educational-video",
+      "ebook",
+      "manual",
+      "recipe",
+      "checklist",
+      "audio",
+      "image",
+      "event",
+      "program-material"
+    ],
+    "access": [
+      "public",
+      "registered",
+      "master",
+      "owned_product",
+      "program_entitlement",
+      "staff_only"
+    ],
+    "ai_index_policy": [
+      "none",
+      "metadata_only",
+      "retrievable"
+    ],
+    "lifecycle": [
+      "discovered",
+      "inventoried",
+      "rights_pending",
+      "rights_resolved",
+      "review_pending",
+      "approved_for_transformation",
+      "normalized",
+      "edited",
+      "qa",
+      "published",
+      "indexed",
+      "archived"
+    ],
+    "risk": [
+      "none",
+      "rights_unknown",
+      "clinical",
+      "medical",
+      "nutrition_review",
+      "exercise_safety",
+      "outdated",
+      "restricted"
+    ]
+  }
+}
