@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "purpose": "Master acquisition and transformation plan for MyTrainX Library V2",
+  "waves": [
+    {
+      "id": "A",
+      "name": "Owned and WKT-connected assets",
+      "priority": "P0",
+      "policy": "normalize_and_publish_when_product_approved",
+      "targets": [
+        "WKT Militar supporting materials",
+        "existing MyTrainX-owned assets"
+      ],
+      "outputs": [
+        "program materials",
+        "exercise mappings",
+        "library entries"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "High-value Drive reference courses",
+      "priority": "P0",
+      "policy": "reference_only_until_rights_resolved",
+      "targets": [
+        "TOTAL HIIT",
+        "SUMMER ABS",
+        "Xtreme / Xtreme 21",
+        "Treino Calistenia",
+        "GRAVIDADE_ZERO",
+        "Técnica com Brutalidade 2.0",
+        "Treino Evolution",
+        "Vida Funcional",
+        "Smart Emagrecimento 2",
+        "Wellness Bem Estar e Saúde"
+      ],
+      "outputs": [
+        "curriculum maps",
+        "taxonomy candidates",
+        "original product briefs",
+        "exercise/recipe concept maps"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "PLR archive",
+      "priority": "P0",
+      "policy": "package_level_license_required",
+      "targets": [
+        "Musculação",
+        "Alimentação e Dieta",
+        "Culinária",
+        "Saúde e Bem Estar",
+        "Mindset"
+      ],
+      "outputs": [
+        "nested package inventory",
+        "license evidence",
+        "rights decisions",
+        "transformation candidates"
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Open exercise data",
+      "priority": "P0",
+      "policy": "license_compatible_only",
+      "targets": [
+        "public/open exercise datasets"
+      ],
+      "outputs": [
+        "canonical exercises",
+        "muscle mappings",
+        "equipment mappings",
+        "movement patterns"
+      ]
+    },
+    {
+      "id": "E",
+      "name": "Open nutrition data",
+      "priority": "P0",
+      "policy": "license_compatible_only",
+      "targets": [
+        "USDA FoodData Central",
+        "compatible official/open sources"
+      ],
+      "outputs": [
+        "canonical foods",
+        "nutrients",
+        "servings",
+        "source provenance"
+      ]
+    },
+    {
+      "id": "F",
+      "name": "Original MyTrainX production",
+      "priority": "P0-P2",
+      "policy": "owned",
+      "targets": [
+        "MyTrainX Start",
+        "Core 21",
+        "Home 30",
+        "HIIT pathways",
+        "Calisthenics Foundations",
+        "Nutrition Fundamentals",
+        "MyTrainX Kitchen",
+        "Habits 360"
+      ],
+      "outputs": [
+        "scripts",
+        "videos",
+        "articles",
+        "ebooks",
+        "recipes",
+        "programs",
+        "knowledge documents"
+      ]
+    }
+  ],
+  "launch_collections": [
+    "Start Here",
+    "Training Fundamentals",
+    "Exercise Encyclopedia",
+    "Train at Home",
+    "HIIT",
+    "Build Strength",
+    "Core",
+    "Calisthenics Foundations",
+    "Skills: Handstand",
+    "Skills: Front Lever",
+    "Mobility & Recovery",
+    "Nutrition Fundamentals",
+    "Macronutrients",
+    "MyTrainX Kitchen",
+    "High-Protein Recipes",
+    "Meal Prep",
+    "Habits 360",
+    "WKT Resources",
+    "My Downloads",
+    "My Purchased Products"
+  ],
+  "quarantine_topics": [
+    "hormone protocols",
+    "medications",
+    "disease treatment",
+    "diabetes treatment claims",
+    "detox claims",
+    "respiratory disease treatment",
+    "injury diagnosis/treatment",
+    "extreme weight-loss protocols",
+    "unknown-rights content"
+  ],
+  "mandatory_gates": [
+    "inventory",
+    "rights",
+    "review",
+    "normalization",
+    "access policy",
+    "ai index policy",
+    "publication QA"
+  ]
+}
