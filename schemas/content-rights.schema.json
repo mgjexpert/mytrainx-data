@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/content-rights.schema.json",
+  "title": "MyTrainX Content Rights",
+  "type": "object",
+  "required": [
+    "content_slug",
+    "rights_basis",
+    "verification_status"
+  ],
+  "properties": {
+    "content_slug": {
+      "type": "string"
+    },
+    "rights_basis": {
+      "enum": [
+        "owned",
+        "commissioned",
+        "plr",
+        "public_domain",
+        "cc0",
+        "cc_by",
+        "cc_by_sa",
+        "cc_by_nc_sa",
+        "cc_by_nd",
+        "odbl",
+        "ogl",
+        "licensed",
+        "reference_only",
+        "unknown"
+      ]
+    },
+    "copyright_holder": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri"
+    },
+    "license_document_ref": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "commercial_use_allowed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "derivatives_allowed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "redistribution_allowed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "attribution_required": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "attribution_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ai_retrieval_allowed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ai_derivative_generation_allowed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "verification_status": {
+      "enum": [
+        "unverified",
+        "pending",
+        "verified",
+        "restricted",
+        "expired",
+        "disputed"
+      ]
+    },
+    "verified_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "verified_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}
