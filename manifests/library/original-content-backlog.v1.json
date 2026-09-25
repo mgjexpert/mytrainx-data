@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "p0": [
+    {
+      "id": "start-4w",
+      "title": "MyTrainX Start — 4 Weeks",
+      "type": "program",
+      "status": "draft_spec_created"
+    },
+    {
+      "id": "exercise-encyclopedia",
+      "title": "Exercise Encyclopedia",
+      "type": "knowledge_product",
+      "status": "source_registered"
+    },
+    {
+      "id": "nutrition-fundamentals",
+      "title": "Nutrition Fundamentals",
+      "type": "course_ebook",
+      "status": "draft_spec_created"
+    },
+    {
+      "id": "kitchen-launch",
+      "title": "MyTrainX Kitchen Launch",
+      "type": "recipe_collection",
+      "status": "draft_spec_created"
+    },
+    {
+      "id": "wkt-normalization",
+      "title": "WKT Supporting Resources",
+      "type": "program_materials",
+      "status": "inventory_in_progress"
+    }
+  ],
+  "p1": [
+    {
+      "id": "core-21",
+      "title": "Core 21",
+      "type": "challenge"
+    },
+    {
+      "id": "home-30",
+      "title": "Home 30",
+      "type": "program"
+    },
+    {
+      "id": "hiit-path",
+      "title": "HIIT Beginner → Intermediate → Advanced",
+      "type": "learning_path"
+    },
+    {
+      "id": "calisthenics-foundations",
+      "title": "Calisthenics Foundations",
+      "type": "learning_path"
+    },
+    {
+      "id": "habits-360",
+      "title": "Habits 360",
+      "type": "course"
+    }
+  ],
+  "p2": [
+    {
+      "id": "handstand-path",
+      "title": "Handstand Pathway",
+      "type": "skill_path"
+    },
+    {
+      "id": "front-lever-path",
+      "title": "Front Lever Pathway",
+      "type": "skill_path"
+    },
+    {
+      "id": "strength-foundations",
+      "title": "Strength Foundations",
+      "type": "program"
+    },
+    {
+      "id": "meal-prep",
+      "title": "Meal Prep",
+      "type": "recipe_course"
+    },
+    {
+      "id": "mobility-recovery",
+      "title": "Mobility & Recovery",
+      "type": "library_collection"
+    }
+  ]
+}
