@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/digital-product.schema.json",
+  "title": "MyTrainX Digital Product",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "product_type",
+    "included_content",
+    "rights_status",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "product_type": {
+      "enum": [
+        "ebook",
+        "course",
+        "challenge",
+        "program",
+        "recipe_pack",
+        "video_series",
+        "bundle",
+        "membership_content"
+      ]
+    },
+    "commercial_model": {
+      "enum": [
+        "free",
+        "one_time",
+        "master_included",
+        "bundle",
+        "attached_to_program"
+      ]
+    },
+    "included_content": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "included_collections": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "rights_status": {
+      "enum": [
+        "pending",
+        "cleared",
+        "owned",
+        "restricted"
+      ]
+    },
+    "watermark_policy": {
+      "enum": [
+        "none",
+        "brand_footer",
+        "brand_and_content_id",
+        "personalized_token"
+      ]
+    },
+    "status": {
+      "enum": [
+        "concept",
+        "production",
+        "review",
+        "ready",
+        "published",
+        "retired"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}
