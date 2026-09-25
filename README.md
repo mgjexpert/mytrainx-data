@@ -38,8 +38,12 @@ Canonical responsibilities:
 ```
 schemas/
   content-item.schema.json
+  source-collection.schema.json
+  content-rights.schema.json
+  exercise.schema.json
   recipe.schema.json
 manifests/
+  sources/
   wkt/
   library/
   recipes/
@@ -48,6 +52,7 @@ ingestion/
   pipelines/
 taxonomy/
   README.md
+  library-taxonomy.v1.json
 docs/
   DATA-GOVERNANCE.md
 ```
