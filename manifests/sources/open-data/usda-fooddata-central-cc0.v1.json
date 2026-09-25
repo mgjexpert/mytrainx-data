@@ -1,0 +1,29 @@
+{
+  "id": "usda-fooddata-central-cc0-v1",
+  "source_class": "open_dataset",
+  "provider": "USDA Agricultural Research Service",
+  "name": "FoodData Central",
+  "homepage": "https://fdc.nal.usda.gov/",
+  "license": {
+    "name": "CC0 1.0 / public domain",
+    "commercial_use": true,
+    "derivatives": true,
+    "redistribution": true,
+    "status": "verified_official"
+  },
+  "last_verified": "2026-09-25",
+  "mytrainx_policy": "canonical_nutrition_seed",
+  "canonical_use": [
+    "foods",
+    "nutrients",
+    "serving_reference_data",
+    "recipe_nutrient_calculation"
+  ],
+  "attribution_requested": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central.",
+  "requirements": [
+    "preserve FDC identifiers where applicable",
+    "normalize units",
+    "version imports",
+    "do not infer clinical suitability from nutrient data alone"
+  ]
+}
