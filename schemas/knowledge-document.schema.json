@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/knowledge-document.schema.json",
+  "title": "MyTrainX Knowledge Document",
+  "type": "object",
+  "required": [
+    "id",
+    "content_slug",
+    "version",
+    "knowledge_layer",
+    "ai_index_policy",
+    "access_policy",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "content_slug": {
+      "type": "string"
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "knowledge_layer": {
+      "enum": [
+        "publishable",
+        "evidence",
+        "reference_private",
+        "quarantine"
+      ]
+    },
+    "language": {
+      "type": "string"
+    },
+    "canonical_text_path": {
+      "type": "string"
+    },
+    "source_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rights_status": {
+      "enum": [
+        "pending",
+        "verified",
+        "owned",
+        "reference_only",
+        "restricted"
+      ]
+    },
+    "review_status": {
+      "enum": [
+        "unreviewed",
+        "pending",
+        "approved",
+        "changes_required",
+        "quarantined"
+      ]
+    },
+    "ai_index_policy": {
+      "enum": [
+        "none",
+        "metadata_only",
+        "retrievable"
+      ]
+    },
+    "access_policy": {
+      "enum": [
+        "public",
+        "registered",
+        "master",
+        "owned_product",
+        "program_entitlement",
+        "staff_only"
+      ]
+    },
+    "safety_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "ready",
+        "indexed",
+        "superseded",
+        "archived"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

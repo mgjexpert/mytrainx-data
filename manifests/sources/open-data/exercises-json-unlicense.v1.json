@@ -1,0 +1,31 @@
+{
+  "id": "open-exercises-wrkout-unlicense-v1",
+  "source_class": "open_dataset",
+  "provider": "wrkout",
+  "repository": "wrkout/exercises.json",
+  "homepage": "https://github.com/wrkout/exercises.json",
+  "description": "Open Public Domain Exercise Dataset in JSON format",
+  "license": {
+    "spdx": "Unlicense",
+    "name": "The Unlicense",
+    "commercial_use": true,
+    "derivatives": true,
+    "redistribution": true,
+    "status": "verified_from_repository_metadata"
+  },
+  "default_branch": "master",
+  "last_verified": "2026-09-25",
+  "mytrainx_policy": "ingest_as_seed_then_rewrite_review_and_localize",
+  "canonical_use": [
+    "exercise_seed",
+    "muscle_equipment_taxonomy_seed",
+    "instruction_draft_source"
+  ],
+  "requirements": [
+    "retain provenance internally",
+    "perform PT-BR localization review",
+    "map to MyTrainX movement taxonomy",
+    "exercise-safety review before publish",
+    "replace or augment demo media with MyTrainX-owned media over time"
+  ]
+}

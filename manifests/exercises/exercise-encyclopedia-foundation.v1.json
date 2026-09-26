@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "title": "MyTrainX Exercise Encyclopedia — Foundation",
+  "status": "production",
+  "source_strategy": [
+    {
+      "source": "wrkout/exercises.json",
+      "license": "Unlicense",
+      "rights_verified": true,
+      "import": "all exercise.json records",
+      "use": "canonical seed only",
+      "publication_gate": [
+        "pt-BR localization",
+        "exercise review",
+        "MyTrainX coaching cues",
+        "safety review",
+        "visual strategy"
+      ]
+    }
+  ],
+  "target_record": {
+    "identity": [
+      "slug",
+      "canonical_name",
+      "localized_names",
+      "aliases"
+    ],
+    "classification": [
+      "exercise_type",
+      "difficulty",
+      "equipment",
+      "primary_muscles",
+      "secondary_muscles",
+      "movement_patterns",
+      "body_regions"
+    ],
+    "instruction": [
+      "instructions",
+      "coaching_cues",
+      "common_mistakes",
+      "safety_notes"
+    ],
+    "graph": [
+      "regressions",
+      "progressions",
+      "alternatives"
+    ],
+    "media": [
+      "poster",
+      "start_position",
+      "end_position",
+      "demo_video",
+      "tutorial_video"
+    ],
+    "governance": [
+      "source",
+      "rights",
+      "review_status",
+      "version"
+    ]
+  },
+  "launch_filters": [
+    "muscle",
+    "equipment",
+    "movement-pattern",
+    "difficulty",
+    "location",
+    "goal",
+    "exercise-type"
+  ],
+  "localization": {
+    "primary": "pt-BR",
+    "secondary": [
+      "pt-PT",
+      "es",
+      "en"
+    ],
+    "policy": "human-reviewed preferred names; preserve English canonical alias"
+  },
+  "visual_policy": "Create owned MyTrainX illustrations/videos over time; do not depend on upstream media for product identity.",
+  "ai_policy": "retrievable only after localization/review for user-facing coaching"
+}

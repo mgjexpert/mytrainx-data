@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/source-collection.schema.json",
+  "title": "MyTrainX Source Collection",
+  "type": "object",
+  "required": [
+    "slug",
+    "name",
+    "provider",
+    "source_kind",
+    "relevance_status",
+    "rights",
+    "ingestion_policy",
+    "ai_policy_default",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "parent_slug": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "provider": {
+      "enum": [
+        "google_drive",
+        "github",
+        "upload",
+        "owned",
+        "external",
+        "usda_fdc",
+        "open_food_facts",
+        "who",
+        "nhs",
+        "gov_br",
+        "other"
+      ]
+    },
+    "external_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "uri"
+    },
+    "source_kind": {
+      "enum": [
+        "drive_folder",
+        "archive",
+        "dataset",
+        "website",
+        "api",
+        "manual_upload",
+        "owned_production",
+        "other"
+      ]
+    },
+    "relevance_status": {
+      "enum": [
+        "core",
+        "adjacent",
+        "amber_review",
+        "quarantine",
+        "excluded",
+        "unreviewed"
+      ]
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "basis",
+        "verification_status"
+      ],
+      "properties": {
+        "basis": {
+          "enum": [
+            "owned",
+            "commissioned",
+            "plr",
+            "public_domain",
+            "cc0",
+            "cc_by",
+            "cc_by_sa",
+            "cc_by_nc_sa",
+            "cc_by_nd",
+            "odbl",
+            "ogl",
+            "licensed",
+            "reference_only",
+            "unknown"
+          ]
+        },
+        "verification_status": {
+          "enum": [
+            "unverified",
+            "pending",
+            "verified",
+            "restricted",
+            "disputed"
+          ]
+        },
+        "verify_each_child_license": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "ingestion_policy": {
+      "enum": [
+        "inventory_only",
+        "metadata",
+        "extract_text",
+        "transcribe",
+        "full"
+      ]
+    },
+    "ai_policy_default": {
+      "enum": [
+        "none",
+        "metadata_only",
+        "retrievable"
+      ]
+    },
+    "domain_tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "clinical_review_required": {
+      "type": "boolean"
+    },
+    "status": {
+      "enum": [
+        "active",
+        "paused",
+        "quarantined",
+        "archived"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

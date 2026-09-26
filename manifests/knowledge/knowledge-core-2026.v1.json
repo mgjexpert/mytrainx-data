@@ -1,0 +1,1878 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-26",
+  "description": "Canonical original-knowledge production backlog for MyTrainX.",
+  "total_topics": 115,
+  "topics": [
+    {
+      "id": "kb-001",
+      "slug": "como-comecar-treino-de-forca",
+      "domain": "training-foundations",
+      "title": "Como começar treino de força",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-002",
+      "slug": "consistencia-supera-complexidade",
+      "domain": "training-foundations",
+      "title": "Consistência supera complexidade",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-003",
+      "slug": "progressao-sem-complicar",
+      "domain": "training-foundations",
+      "title": "Progressão sem complicar",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-004",
+      "slug": "esforco-e-rir-rpe",
+      "domain": "training-foundations",
+      "title": "Esforço e RIR/RPE",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-005",
+      "slug": "volume-de-treino",
+      "domain": "training-foundations",
+      "title": "Volume de treino",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-006",
+      "slug": "frequencia-de-treino",
+      "domain": "training-foundations",
+      "title": "Frequência de treino",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-007",
+      "slug": "descanso-entre-series",
+      "domain": "training-foundations",
+      "title": "Descanso entre séries",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-008",
+      "slug": "amplitude-de-movimento",
+      "domain": "training-foundations",
+      "title": "Amplitude de movimento",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-009",
+      "slug": "aquecimento-com-proposito",
+      "domain": "training-foundations",
+      "title": "Aquecimento com propósito",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-010",
+      "slug": "deload-e-reducao-de-carga",
+      "domain": "training-foundations",
+      "title": "Deload e redução de carga",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-011",
+      "slug": "como-escolher-exercicios",
+      "domain": "training-foundations",
+      "title": "Como escolher exercícios",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-012",
+      "slug": "treino-ate-a-falha-quando-faz-sentido",
+      "domain": "training-foundations",
+      "title": "Treino até a falha: quando faz sentido",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-013",
+      "slug": "forca-vs-hipertrofia-vs-potencia",
+      "domain": "strength-hypertrophy",
+      "title": "Força vs hipertrofia vs potência",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-014",
+      "slug": "principios-de-hipertrofia",
+      "domain": "strength-hypertrophy",
+      "title": "Princípios de hipertrofia",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-015",
+      "slug": "cargas-altas-e-forca-maxima",
+      "domain": "strength-hypertrophy",
+      "title": "Cargas altas e força máxima",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-016",
+      "slug": "volume-semanal-por-grupo-muscular",
+      "domain": "strength-hypertrophy",
+      "title": "Volume semanal por grupo muscular",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-017",
+      "slug": "progressao-de-carga",
+      "domain": "strength-hypertrophy",
+      "title": "Progressão de carga",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-018",
+      "slug": "progressao-por-repeticoes",
+      "domain": "strength-hypertrophy",
+      "title": "Progressão por repetições",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-019",
+      "slug": "treino-unilateral",
+      "domain": "strength-hypertrophy",
+      "title": "Treino unilateral",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-020",
+      "slug": "maquinas-vs-pesos-livres",
+      "domain": "strength-hypertrophy",
+      "title": "Máquinas vs pesos livres",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-021",
+      "slug": "tempo-sob-tensao-sem-mitos",
+      "domain": "strength-hypertrophy",
+      "title": "Tempo sob tensão sem mitos",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-022",
+      "slug": "tecnica-e-estabilidade",
+      "domain": "strength-hypertrophy",
+      "title": "Técnica e estabilidade",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-023",
+      "slug": "quando-trocar-exercicios",
+      "domain": "strength-hypertrophy",
+      "title": "Quando trocar exercícios",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-024",
+      "slug": "como-interpretar-um-plato-de-forca",
+      "domain": "strength-hypertrophy",
+      "title": "Como interpretar um platô de força",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-025",
+      "slug": "treino-em-casa-funciona",
+      "domain": "home-hiit-conditioning",
+      "title": "Treino em casa funciona",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-026",
+      "slug": "como-criar-resistencia-sem-academia",
+      "domain": "home-hiit-conditioning",
+      "title": "Como criar resistência sem academia",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-027",
+      "slug": "bandas-elasticas",
+      "domain": "home-hiit-conditioning",
+      "title": "Bandas elásticas",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-028",
+      "slug": "progressoes-com-peso-corporal",
+      "domain": "home-hiit-conditioning",
+      "title": "Progressões com peso corporal",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-029",
+      "slug": "hiit-fundamentos",
+      "domain": "home-hiit-conditioning",
+      "title": "HIIT: fundamentos",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-030",
+      "slug": "hiit-de-baixo-impacto",
+      "domain": "home-hiit-conditioning",
+      "title": "HIIT de baixo impacto",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-031",
+      "slug": "work-rest-ratio",
+      "domain": "home-hiit-conditioning",
+      "title": "Work-rest ratio",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-032",
+      "slug": "cardio-zona-moderada",
+      "domain": "home-hiit-conditioning",
+      "title": "Cardio zona moderada",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-033",
+      "slug": "condicionamento-sem-punicao",
+      "domain": "home-hiit-conditioning",
+      "title": "Condicionamento sem punição",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-034",
+      "slug": "como-combinar-cardio-e-forca",
+      "domain": "home-hiit-conditioning",
+      "title": "Como combinar cardio e força",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-035",
+      "slug": "por-que-o-peso-muda-diariamente",
+      "domain": "progress",
+      "title": "Por que o peso muda diariamente",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-036",
+      "slug": "como-se-pesar-com-consistencia",
+      "domain": "progress",
+      "title": "Como se pesar com consistência",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-037",
+      "slug": "medias-e-tendencias-de-peso",
+      "domain": "progress",
+      "title": "Médias e tendências de peso",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-038",
+      "slug": "bia-o-que-mede",
+      "domain": "progress",
+      "title": "BIA: o que mede",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-039",
+      "slug": "smart-scale-e-massa-muscular-estimada",
+      "domain": "progress",
+      "title": "Smart scale e massa muscular estimada",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-040",
+      "slug": "como-medir-cintura",
+      "domain": "progress",
+      "title": "Como medir cintura",
+      "language": "pt-BR",
+      "priority": "P0",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-041",
+      "slug": "como-medir-outras-circunferencias",
+      "domain": "progress",
+      "title": "Como medir outras circunferências",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-042",
+      "slug": "fotos-de-evolucao-padronizadas",
+      "domain": "progress",
+      "title": "Fotos de evolução padronizadas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-043",
+      "slug": "progresso-alem-da-balanca",
+      "domain": "progress",
+      "title": "Progresso além da balança",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-044",
+      "slug": "check-in-semanal",
+      "domain": "progress",
+      "title": "Check-in semanal",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-045",
+      "slug": "sono-e-performance",
+      "domain": "progress",
+      "title": "Sono e performance",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-046",
+      "slug": "stress-e-treino",
+      "domain": "progress",
+      "title": "Stress e treino",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-047",
+      "slug": "soreness-e-recuperacao",
+      "domain": "progress",
+      "title": "Soreness e recuperação",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-048",
+      "slug": "como-interpretar-platos",
+      "domain": "progress",
+      "title": "Como interpretar platôs",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-049",
+      "slug": "como-escolher-metas-de-progresso",
+      "domain": "progress",
+      "title": "Como escolher metas de progresso",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-050",
+      "slug": "nutricao-sem-ruido",
+      "domain": "nutrition",
+      "title": "Nutrição sem ruído",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-051",
+      "slug": "energia-e-balanco-energetico",
+      "domain": "nutrition",
+      "title": "Energia e balanço energético",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-052",
+      "slug": "proteinas",
+      "domain": "nutrition",
+      "title": "Proteínas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-053",
+      "slug": "carboidratos",
+      "domain": "nutrition",
+      "title": "Carboidratos",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-054",
+      "slug": "gorduras",
+      "domain": "nutrition",
+      "title": "Gorduras",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-055",
+      "slug": "fibras",
+      "domain": "nutrition",
+      "title": "Fibras",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-056",
+      "slug": "hidratacao",
+      "domain": "nutrition",
+      "title": "Hidratação",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-057",
+      "slug": "montagem-de-refeicoes",
+      "domain": "nutrition",
+      "title": "Montagem de refeições",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-058",
+      "slug": "porcoes-sem-obsessao",
+      "domain": "nutrition",
+      "title": "Porções sem obsessão",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-059",
+      "slug": "leitura-de-rotulos",
+      "domain": "nutrition",
+      "title": "Leitura de rótulos",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-060",
+      "slug": "nutricao-pre-treino",
+      "domain": "nutrition",
+      "title": "Nutrição pré-treino",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-061",
+      "slug": "nutricao-pos-treino",
+      "domain": "nutrition",
+      "title": "Nutrição pós-treino",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-062",
+      "slug": "planejamento-alimentar",
+      "domain": "nutrition",
+      "title": "Planejamento alimentar",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-063",
+      "slug": "compras-inteligentes",
+      "domain": "nutrition",
+      "title": "Compras inteligentes",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-064",
+      "slug": "meal-prep",
+      "domain": "nutrition",
+      "title": "Meal prep",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-065",
+      "slug": "alimentacao-fora-de-casa",
+      "domain": "nutrition",
+      "title": "Alimentação fora de casa",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-066",
+      "slug": "weight-management-sustentavel",
+      "domain": "nutrition",
+      "title": "Weight management sustentável",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-067",
+      "slug": "fome-saciedade-e-ambiente-alimentar",
+      "domain": "nutrition",
+      "title": "Fome, saciedade e ambiente alimentar",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-068",
+      "slug": "suplementos-como-avaliar-evidencia",
+      "domain": "nutrition",
+      "title": "Suplementos: como avaliar evidência",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-069",
+      "slug": "creatina-fundamentos-e-limites-de-escopo",
+      "domain": "nutrition",
+      "title": "Creatina: fundamentos e limites de escopo",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "nutrition"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-070",
+      "slug": "cafe-da-manha-pratico",
+      "domain": "kitchen",
+      "title": "Café da manhã prático",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-071",
+      "slug": "marmitas",
+      "domain": "kitchen",
+      "title": "Marmitas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-072",
+      "slug": "receitas-ricas-em-proteina",
+      "domain": "kitchen",
+      "title": "Receitas ricas em proteína",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-073",
+      "slug": "receitas-vegetarianas",
+      "domain": "kitchen",
+      "title": "Receitas vegetarianas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-074",
+      "slug": "snacks",
+      "domain": "kitchen",
+      "title": "Snacks",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-075",
+      "slug": "sopas",
+      "domain": "kitchen",
+      "title": "Sopas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-076",
+      "slug": "saladas-completas",
+      "domain": "kitchen",
+      "title": "Saladas completas",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-077",
+      "slug": "jantares-rapidos",
+      "domain": "kitchen",
+      "title": "Jantares rápidos",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-078",
+      "slug": "molhos-e-temperos",
+      "domain": "kitchen",
+      "title": "Molhos e temperos",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-079",
+      "slug": "batch-cooking",
+      "domain": "kitchen",
+      "title": "Batch cooking",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-080",
+      "slug": "armazenamento-seguro",
+      "domain": "kitchen",
+      "title": "Armazenamento seguro",
+      "language": "pt-BR",
+      "priority": "P1",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-081",
+      "slug": "substituicoes-culinarias",
+      "domain": "kitchen",
+      "title": "Substituições culinárias",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-082",
+      "slug": "sono-e-recuperacao",
+      "domain": "recovery-wellness",
+      "title": "Sono e recuperação",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-083",
+      "slug": "rotina-de-sono",
+      "domain": "recovery-wellness",
+      "title": "Rotina de sono",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-084",
+      "slug": "dias-de-descanso",
+      "domain": "recovery-wellness",
+      "title": "Dias de descanso",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-085",
+      "slug": "mobilidade-vs-flexibilidade",
+      "domain": "recovery-wellness",
+      "title": "Mobilidade vs flexibilidade",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-086",
+      "slug": "alongamento-contexto",
+      "domain": "recovery-wellness",
+      "title": "Alongamento: contexto",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-087",
+      "slug": "respiracao-para-desacelerar",
+      "domain": "recovery-wellness",
+      "title": "Respiração para desacelerar",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-088",
+      "slug": "habitos-e-ambiente",
+      "domain": "recovery-wellness",
+      "title": "Hábitos e ambiente",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-089",
+      "slug": "planejamento-semanal",
+      "domain": "recovery-wellness",
+      "title": "Planejamento semanal",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-090",
+      "slug": "como-voltar-depois-de-parar",
+      "domain": "recovery-wellness",
+      "title": "Como voltar depois de parar",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-091",
+      "slug": "motivacao-vs-sistema",
+      "domain": "recovery-wellness",
+      "title": "Motivação vs sistema",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-092",
+      "slug": "comportamento-tudo-ou-nada",
+      "domain": "recovery-wellness",
+      "title": "Comportamento tudo-ou-nada",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-093",
+      "slug": "recovery-sem-gadgets-obrigatorios",
+      "domain": "recovery-wellness",
+      "title": "Recovery sem gadgets obrigatórios",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-094",
+      "slug": "calistenia-fundamentos",
+      "domain": "calisthenics-skills",
+      "title": "Calistenia: fundamentos",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-095",
+      "slug": "scapular-control",
+      "domain": "calisthenics-skills",
+      "title": "Scapular control",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-096",
+      "slug": "hang-e-pegada",
+      "domain": "calisthenics-skills",
+      "title": "Hang e pegada",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-097",
+      "slug": "push-up-progression",
+      "domain": "calisthenics-skills",
+      "title": "Push-up progression",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-098",
+      "slug": "pull-up-progression",
+      "domain": "calisthenics-skills",
+      "title": "Pull-up progression",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-099",
+      "slug": "dip-foundations",
+      "domain": "calisthenics-skills",
+      "title": "Dip foundations",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-100",
+      "slug": "core-para-calistenia",
+      "domain": "calisthenics-skills",
+      "title": "Core para calistenia",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-101",
+      "slug": "handstand-prerequisites",
+      "domain": "calisthenics-skills",
+      "title": "Handstand prerequisites",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-102",
+      "slug": "handstand-wall-progression",
+      "domain": "calisthenics-skills",
+      "title": "Handstand wall progression",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-103",
+      "slug": "front-lever-prerequisites",
+      "domain": "calisthenics-skills",
+      "title": "Front lever prerequisites",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-104",
+      "slug": "back-lever-prerequisites",
+      "domain": "calisthenics-skills",
+      "title": "Back lever prerequisites",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-105",
+      "slug": "planche-prerequisites",
+      "domain": "calisthenics-skills",
+      "title": "Planche prerequisites",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "mixed",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-106",
+      "slug": "dor-durante-o-treino",
+      "domain": "safety",
+      "title": "Dor durante o treino",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-107",
+      "slug": "quando-interromper-uma-sessao",
+      "domain": "safety",
+      "title": "Quando interromper uma sessão",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-108",
+      "slug": "progressao-para-iniciantes",
+      "domain": "safety",
+      "title": "Progressão para iniciantes",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-109",
+      "slug": "carga-e-tecnica",
+      "domain": "safety",
+      "title": "Carga e técnica",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-110",
+      "slug": "treino-no-calor",
+      "domain": "safety",
+      "title": "Treino no calor",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-111",
+      "slug": "hidratacao-e-atividade",
+      "domain": "safety",
+      "title": "Hidratação e atividade",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-112",
+      "slug": "sinais-para-procurar-avaliacao-profissional",
+      "domain": "safety",
+      "title": "Sinais para procurar avaliação profissional",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-113",
+      "slug": "limites-do-coach-x",
+      "domain": "safety",
+      "title": "Limites do Coach X",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-114",
+      "slug": "conteudo-medico-vs-educacao-fitness",
+      "domain": "safety",
+      "title": "Conteúdo médico vs educação fitness",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    },
+    {
+      "id": "kb-115",
+      "slug": "hormonios-e-medicamentos-escopo-mytrainx",
+      "domain": "safety",
+      "title": "Hormônios e medicamentos: escopo MyTrainX",
+      "language": "pt-BR",
+      "priority": "P2",
+      "access": "registered",
+      "status": "planned",
+      "source_layer": "mytrainx_original",
+      "ai_index_policy": "retrievable_after_review",
+      "reviews": [
+        "editorial",
+        "safety"
+      ],
+      "updated_for": "2026"
+    }
+  ]
+}

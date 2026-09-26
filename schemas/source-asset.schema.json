@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/source-asset.schema.json",
+  "title": "MyTrainX Source Asset",
+  "type": "object",
+  "required": [
+    "id",
+    "source_collection_slug",
+    "title",
+    "source_kind",
+    "provider",
+    "rights_status",
+    "review_status",
+    "ingestion_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_collection_slug": {
+      "type": "string"
+    },
+    "parent_asset_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "original_path": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_kind": {
+      "enum": [
+        "folder",
+        "video",
+        "audio",
+        "pdf",
+        "document",
+        "spreadsheet",
+        "image",
+        "archive",
+        "webpage",
+        "dataset_record",
+        "other"
+      ]
+    },
+    "provider": {
+      "type": "string"
+    },
+    "external_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "mime_type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "size_bytes": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "checksum_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "relevance": {
+      "enum": [
+        "core",
+        "adjacent",
+        "excluded",
+        "quarantine",
+        "unreviewed"
+      ]
+    },
+    "rights_status": {
+      "enum": [
+        "unknown",
+        "pending",
+        "verified",
+        "reference_only",
+        "restricted",
+        "disputed"
+      ]
+    },
+    "review_status": {
+      "enum": [
+        "unreviewed",
+        "pending",
+        "approved",
+        "changes_required",
+        "quarantined"
+      ]
+    },
+    "ingestion_status": {
+      "enum": [
+        "discovered",
+        "inventoried",
+        "extracted",
+        "transcribed",
+        "normalized",
+        "mapped",
+        "publish_ready",
+        "index_ready",
+        "archived"
+      ]
+    },
+    "intended_uses": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "reference",
+          "publication",
+          "product",
+          "program",
+          "recipe",
+          "exercise",
+          "ai_knowledge",
+          "evidence"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "risk_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

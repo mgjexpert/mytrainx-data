@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/media-asset.schema.json",
+  "title": "MyTrainX Media Asset",
+  "type": "object",
+  "required": [
+    "id",
+    "media_type",
+    "rights_status",
+    "storage_provider",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "content_slug": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "media_type": {
+      "enum": [
+        "video",
+        "audio",
+        "image",
+        "thumbnail",
+        "poster",
+        "caption",
+        "transcript",
+        "pdf",
+        "document",
+        "other"
+      ]
+    },
+    "storage_provider": {
+      "enum": [
+        "google_drive",
+        "supabase_storage",
+        "vercel_blob",
+        "streaming_provider",
+        "github",
+        "external",
+        "other"
+      ]
+    },
+    "locator": {
+      "type": "string"
+    },
+    "duration_seconds": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "width": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "height": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1
+    },
+    "language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rights_status": {
+      "enum": [
+        "pending",
+        "verified",
+        "owned",
+        "reference_only",
+        "restricted"
+      ]
+    },
+    "watermark_policy": {
+      "enum": [
+        "none",
+        "brand_bug",
+        "brand_footer",
+        "brand_and_content_id",
+        "personalized_token"
+      ]
+    },
+    "caption_status": {
+      "enum": [
+        "not_applicable",
+        "missing",
+        "draft",
+        "reviewed",
+        "published"
+      ]
+    },
+    "transcript_status": {
+      "enum": [
+        "not_applicable",
+        "missing",
+        "draft",
+        "reviewed",
+        "published"
+      ]
+    },
+    "status": {
+      "enum": [
+        "source",
+        "production",
+        "review",
+        "published",
+        "archived"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

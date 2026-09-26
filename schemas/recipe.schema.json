@@ -15,10 +15,12 @@
   ],
   "properties": {
     "slug": {
-      "type": "string"
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "title": {
-      "type": "string"
+      "type": "string",
+      "minLength": 1
     },
     "language": {
       "enum": [
@@ -45,6 +47,20 @@
         "number",
         "null"
       ],
+      "exclusiveMinimum": 0
+    },
+    "prep_minutes": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "cook_minutes": {
+      "type": [
+        "integer",
+        "null"
+      ],
       "minimum": 0
     },
     "ingredients": {
@@ -58,6 +74,12 @@
           "name": {
             "type": "string"
           },
+          "food_source_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
           "quantity": {
             "type": [
               "number",
@@ -70,11 +92,14 @@
               "null"
             ]
           },
-          "notes": {
+          "preparation": {
             "type": [
               "string",
               "null"
             ]
+          },
+          "optional": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false
@@ -106,7 +131,7 @@
         "object",
         "null"
       ],
-      "description": "Only populate when values are verified and source quality is known."
+      "description": "Populate only from a traceable verified source or calculation pipeline."
     },
     "access_policy": {
       "enum": [
@@ -138,6 +163,29 @@
         "object",
         "null"
       ]
+    },
+    "rights_status": {
+      "enum": [
+        "unverified",
+        "pending",
+        "verified",
+        "restricted",
+        "expired",
+        "disputed"
+      ]
+    },
+    "review_flags": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "editorial",
+          "scientific",
+          "legal",
+          "safety",
+          "nutrition"
+        ]
+      },
+      "uniqueItems": true
     },
     "metadata": {
       "type": "object"

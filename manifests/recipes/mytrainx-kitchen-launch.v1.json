@@ -1,0 +1,533 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "status": "nutrition_review",
+  "rights": "owned",
+  "collection": "mytrainx-kitchen-launch",
+  "nutrition_calculation": "pending_usda_fdc_mapping",
+  "watermark_policy": "brand_and_content_id",
+  "recipes": [
+    {
+      "slug": "omelete-legumes",
+      "title": "Omelete com Legumes",
+      "meal": [
+        "breakfast",
+        "lunch"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "ovos",
+          2,
+          "unit"
+        ],
+        [
+          "tomate",
+          80,
+          "g"
+        ],
+        [
+          "espinafre",
+          40,
+          "g"
+        ],
+        [
+          "cebola",
+          30,
+          "g"
+        ],
+        [
+          "azeite",
+          5,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Refogue rapidamente os vegetais.",
+        "Adicione os ovos batidos.",
+        "Cozinhe em fogo moderado até atingir o ponto desejado."
+      ],
+      "tags": [
+        "high-protein-candidate",
+        "quick"
+      ]
+    },
+    {
+      "slug": "iogurte-aveia-frutas",
+      "title": "Bowl de Iogurte, Aveia e Frutas",
+      "meal": [
+        "breakfast",
+        "snack"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "iogurte natural",
+          170,
+          "g"
+        ],
+        [
+          "aveia",
+          35,
+          "g"
+        ],
+        [
+          "banana",
+          80,
+          "g"
+        ],
+        [
+          "morango",
+          80,
+          "g"
+        ],
+        [
+          "chia",
+          10,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Coloque o iogurte em uma tigela.",
+        "Adicione aveia e frutas.",
+        "Finalize com chia."
+      ],
+      "tags": [
+        "quick",
+        "vegetarian"
+      ]
+    },
+    {
+      "slug": "frango-arroz-feijao-legumes",
+      "title": "Prato Base: Frango, Arroz, Feijão e Legumes",
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "peito de frango cozido",
+          120,
+          "g"
+        ],
+        [
+          "arroz cozido",
+          120,
+          "g"
+        ],
+        [
+          "feijão cozido",
+          100,
+          "g"
+        ],
+        [
+          "legumes variados",
+          150,
+          "g"
+        ],
+        [
+          "azeite",
+          5,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Prepare cada componente com temperos naturais.",
+        "Monte o prato mantendo variedade de cores e texturas."
+      ],
+      "tags": [
+        "meal-prep",
+        "brazilian"
+      ]
+    },
+    {
+      "slug": "lentilha-legumes-ovo",
+      "title": "Lentilha com Legumes e Ovo",
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "lentilha cozida",
+          160,
+          "g"
+        ],
+        [
+          "ovo",
+          2,
+          "unit"
+        ],
+        [
+          "cenoura",
+          60,
+          "g"
+        ],
+        [
+          "abobrinha",
+          80,
+          "g"
+        ],
+        [
+          "cebola",
+          30,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Refogue os legumes.",
+        "Junte a lentilha e aqueça.",
+        "Sirva com ovos preparados ao gosto."
+      ],
+      "tags": [
+        "vegetarian",
+        "fiber"
+      ]
+    },
+    {
+      "slug": "sanduiche-frango-iogurte",
+      "title": "Sanduíche de Frango com Creme de Iogurte",
+      "meal": [
+        "snack",
+        "lunch"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "pão integral",
+          2,
+          "slice"
+        ],
+        [
+          "frango desfiado",
+          100,
+          "g"
+        ],
+        [
+          "iogurte natural",
+          35,
+          "g"
+        ],
+        [
+          "cenoura ralada",
+          40,
+          "g"
+        ],
+        [
+          "folhas",
+          30,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Misture frango e iogurte com temperos.",
+        "Monte com cenoura e folhas."
+      ],
+      "tags": [
+        "quick",
+        "portable"
+      ]
+    },
+    {
+      "slug": "sopa-abobora-frango",
+      "title": "Sopa de Abóbora com Frango",
+      "meal": [
+        "dinner"
+      ],
+      "servings": 2,
+      "ingredients": [
+        [
+          "abóbora",
+          500,
+          "g"
+        ],
+        [
+          "frango desfiado",
+          200,
+          "g"
+        ],
+        [
+          "cebola",
+          60,
+          "g"
+        ],
+        [
+          "alho",
+          5,
+          "g"
+        ],
+        [
+          "água",
+          600,
+          "ml"
+        ]
+      ],
+      "steps": [
+        "Cozinhe abóbora, cebola e alho.",
+        "Bata até obter a textura desejada.",
+        "Volte ao fogo e adicione o frango."
+      ],
+      "tags": [
+        "meal-prep",
+        "soup"
+      ]
+    },
+    {
+      "slug": "salada-grao-bico-atum",
+      "title": "Salada de Grão-de-Bico com Atum",
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 2,
+      "ingredients": [
+        [
+          "grão-de-bico cozido",
+          240,
+          "g"
+        ],
+        [
+          "atum em água drenado",
+          160,
+          "g"
+        ],
+        [
+          "tomate",
+          150,
+          "g"
+        ],
+        [
+          "pepino",
+          120,
+          "g"
+        ],
+        [
+          "azeite",
+          10,
+          "g"
+        ],
+        [
+          "limão",
+          20,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Misture todos os ingredientes.",
+        "Ajuste ervas e temperos."
+      ],
+      "tags": [
+        "quick",
+        "fiber",
+        "protein"
+      ]
+    },
+    {
+      "slug": "overnight-oats-cacau-banana",
+      "title": "Overnight Oats de Cacau e Banana",
+      "meal": [
+        "breakfast"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "aveia",
+          45,
+          "g"
+        ],
+        [
+          "leite",
+          180,
+          "ml"
+        ],
+        [
+          "iogurte natural",
+          80,
+          "g"
+        ],
+        [
+          "banana",
+          90,
+          "g"
+        ],
+        [
+          "cacau em pó",
+          5,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Misture aveia, leite, iogurte e cacau.",
+        "Refrigere durante a noite.",
+        "Adicione banana ao servir."
+      ],
+      "tags": [
+        "meal-prep",
+        "vegetarian"
+      ]
+    },
+    {
+      "slug": "tofu-arroz-legumes",
+      "title": "Tofu Dourado com Arroz e Legumes",
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "tofu firme",
+          160,
+          "g"
+        ],
+        [
+          "arroz cozido",
+          120,
+          "g"
+        ],
+        [
+          "brócolis",
+          100,
+          "g"
+        ],
+        [
+          "cenoura",
+          60,
+          "g"
+        ],
+        [
+          "azeite",
+          5,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Doure o tofu.",
+        "Salteie os legumes.",
+        "Sirva com arroz."
+      ],
+      "tags": [
+        "plant-based",
+        "meal-prep"
+      ]
+    },
+    {
+      "slug": "peixe-batata-salada",
+      "title": "Peixe Assado com Batata e Salada",
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "filé de peixe",
+          160,
+          "g"
+        ],
+        [
+          "batata",
+          200,
+          "g"
+        ],
+        [
+          "salada variada",
+          150,
+          "g"
+        ],
+        [
+          "azeite",
+          8,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Asse o peixe e a batata até cozidos.",
+        "Sirva com salada fresca e azeite."
+      ],
+      "tags": [
+        "simple",
+        "protein"
+      ]
+    },
+    {
+      "slug": "smoothie-iogurte-frutas",
+      "title": "Smoothie de Iogurte e Frutas",
+      "meal": [
+        "snack"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "iogurte natural",
+          170,
+          "g"
+        ],
+        [
+          "frutas vermelhas",
+          120,
+          "g"
+        ],
+        [
+          "banana",
+          60,
+          "g"
+        ],
+        [
+          "água",
+          80,
+          "ml"
+        ]
+      ],
+      "steps": [
+        "Bata todos os ingredientes até ficar homogêneo."
+      ],
+      "tags": [
+        "quick",
+        "vegetarian"
+      ]
+    },
+    {
+      "slug": "panqueca-aveia-ovo-banana",
+      "title": "Panqueca de Aveia, Ovo e Banana",
+      "meal": [
+        "breakfast",
+        "snack"
+      ],
+      "servings": 1,
+      "ingredients": [
+        [
+          "ovo",
+          2,
+          "unit"
+        ],
+        [
+          "banana",
+          90,
+          "g"
+        ],
+        [
+          "aveia",
+          35,
+          "g"
+        ],
+        [
+          "canela",
+          1,
+          "g"
+        ]
+      ],
+      "steps": [
+        "Amasse a banana.",
+        "Misture ovos, aveia e canela.",
+        "Cozinhe porções em frigideira antiaderente."
+      ],
+      "tags": [
+        "quick",
+        "vegetarian"
+      ]
+    }
+  ]
+}

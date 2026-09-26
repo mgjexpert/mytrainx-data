@@ -1,0 +1,1055 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-09-26",
+  "purpose": "MyTrainX library source inventory. Former RED/quarantine sources are now AMBER review candidates; no publication authorization is implied.",
+  "sources": [
+    {
+      "slug": "drive-courses-initial",
+      "name": "Drive inicial — cursos e programas",
+      "provider": "google_drive",
+      "external_id": "1LE_S1d1bBUREVfHGCe7c4JUSLBR29Xak",
+      "source_url": "https://drive.google.com/drive/folders/1LE_S1d1bBUREVfHGCe7c4JUSLBR29Xak",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "unknown",
+        "verification_status": "pending"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "nutrition",
+        "wellness"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "slug": "drive-plr-library",
+      "name": "Drive inicial — biblioteca PLR temática",
+      "provider": "google_drive",
+      "external_id": "142RqTcC32roulyCBU7_Rhs6cFxmvnne8",
+      "source_url": "https://drive.google.com/drive/folders/142RqTcC32roulyCBU7_Rhs6cFxmvnne8",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "unknown",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "nutrition",
+        "recipes",
+        "wellness"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "segredos-definicao",
+      "name": "Segredos da definição",
+      "provider": "google_drive",
+      "external_id": "1cW8O6zNfeBNTQ8XtPDcDLToz5Vny3ML_",
+      "source_url": "https://drive.google.com/drive/folders/1cW8O6zNfeBNTQ8XtPDcDLToz5Vny3ML_",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "nutrition"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "summer-abs",
+      "name": "SUMMER ABS",
+      "provider": "google_drive",
+      "external_id": "1UfPx-1bwuuQLEMO60JVYkl16vHeXg_BQ",
+      "source_url": "https://drive.google.com/drive/folders/1UfPx-1bwuuQLEMO60JVYkl16vHeXg_BQ",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "core"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "tecnica-brutalidade-2",
+      "name": "Técnica com Brutalidade 2.0 - Fabrício Pacholok",
+      "provider": "google_drive",
+      "external_id": "1pidpAfc4ZNsKtKHxndf5ppR8twecgVSG",
+      "source_url": "https://drive.google.com/drive/folders/1pidpAfc4ZNsKtKHxndf5ppR8twecgVSG",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "strength"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "total-hiit",
+      "name": "TOTAL HIIT - TIAGO PUGLIESI",
+      "provider": "google_drive",
+      "external_id": "1n69yLY8KhQx5ozse_EosYdLCLJG_P_hz",
+      "source_url": "https://drive.google.com/drive/folders/1n69yLY8KhQx5ozse_EosYdLCLJG_P_hz",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "hiit"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "treino-calistenia",
+      "name": "Treino Calistenia",
+      "provider": "google_drive",
+      "external_id": "1_zds1wcaY9kxxHEmvLSYUxGJLbPC5oNu",
+      "source_url": "https://drive.google.com/drive/folders/1_zds1wcaY9kxxHEmvLSYUxGJLbPC5oNu",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "calisthenics"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "treino-evolution",
+      "name": "Treino Evolution",
+      "provider": "google_drive",
+      "external_id": "1bDB3oBU9vgpuDb-2dujK0Wlidtw1euR1",
+      "source_url": "https://drive.google.com/drive/folders/1bDB3oBU9vgpuDb-2dujK0Wlidtw1euR1",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "strength"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "treino-fisico",
+      "name": "Treino Físico -Italo Marsili- Tony Geremias",
+      "provider": "google_drive",
+      "external_id": "1HJvi2WeV0kkxHAOV0-S9qRwGQj4u7_dW",
+      "source_url": "https://drive.google.com/drive/folders/1HJvi2WeV0kkxHAOV0-S9qRwGQj4u7_dW",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "prana-yoga",
+      "name": "TUTORIAIS PRÁNA YOGA",
+      "provider": "google_drive",
+      "external_id": "1UOrTJn-eYZJKVtpqrpvDPk3fgvmfuHnJ",
+      "source_url": "https://drive.google.com/drive/folders/1UOrTJn-eYZJKVtpqrpvDPk3fgvmfuHnJ",
+      "source_kind": "drive_folder",
+      "relevance_status": "adjacent",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "yoga"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "universidade-maromba",
+      "name": "Universidade Maromba",
+      "provider": "google_drive",
+      "external_id": "1yP3OZM3eQPHoU_wzietyXuHXLt2I592e",
+      "source_url": "https://drive.google.com/drive/folders/1yP3OZM3eQPHoU_wzietyXuHXLt2I592e",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "nutrition"
+      ],
+      "clinical_review_required": true,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "vida-funcional",
+      "name": "Vida Funcional - Andréa Santa Rosa e Márcio Garcia",
+      "provider": "google_drive",
+      "external_id": "1oEnLcgI8n5NftYWJi6JegNCotu2pjXaL",
+      "source_url": "https://drive.google.com/drive/folders/1oEnLcgI8n5NftYWJi6JegNCotu2pjXaL",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "recipes",
+        "training"
+      ],
+      "clinical_review_required": true,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "wellness",
+      "name": "Wellness Bem Estar e Saúde - Flavia Machioni",
+      "provider": "google_drive",
+      "external_id": "10HvEQzmxQMUHr_8htotJcahS560ZGVF3",
+      "source_url": "https://drive.google.com/drive/folders/10HvEQzmxQMUHr_8htotJcahS560ZGVF3",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "nutrition"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "wkt-militar-source",
+      "name": "WKT MILITAR",
+      "provider": "google_drive",
+      "external_id": "1S_BCJ347SIjVQ0tHQcevJzoFQ518ZeUC",
+      "source_url": "https://drive.google.com/drive/folders/1S_BCJ347SIjVQ0tHQcevJzoFQ518ZeUC",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "unknown",
+        "verification_status": "pending"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "wkt"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "xtreme",
+      "name": "Xtreme",
+      "provider": "google_drive",
+      "external_id": "1hvT1MByUkWZ_WRDFar_e7n1tiHjXDGV3",
+      "source_url": "https://drive.google.com/drive/folders/1hvT1MByUkWZ_WRDFar_e7n1tiHjXDGV3",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "nutrition"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "xtreme-21",
+      "name": "Xtreme 21",
+      "provider": "google_drive",
+      "external_id": "14gsX68KTmygs7WE1x9Pp0HThva6ui5X2",
+      "source_url": "https://drive.google.com/drive/folders/14gsX68KTmygs7WE1x9Pp0HThva6ui5X2",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "hiit"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "xtreme-bonus",
+      "name": "XTREME BÔNUS",
+      "provider": "google_drive",
+      "external_id": "1Q7Ypi1afVwpirmsZl0Q5EGyEJdMA0DcT",
+      "source_url": "https://drive.google.com/drive/folders/1Q7Ypi1afVwpirmsZl0Q5EGyEJdMA0DcT",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "recovery",
+        "yoga"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "xtreme-light",
+      "name": "XTREME LIGHT",
+      "provider": "google_drive",
+      "external_id": "1zdwVMgjpkZuaHNQs2t1wXAyiNwsJ3mf8",
+      "source_url": "https://drive.google.com/drive/folders/1zdwVMgjpkZuaHNQs2t1wXAyiNwsJ3mf8",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "beginner"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "gravidade-zero",
+      "name": "GRAVIDADE_ZERO",
+      "provider": "google_drive",
+      "external_id": "19TzwXExvaXcRVkN39OhH9pw6eaplKtHE",
+      "source_url": "https://drive.google.com/drive/folders/19TzwXExvaXcRVkN39OhH9pw6eaplKtHE",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "calisthenics",
+        "skills"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "funcional-pablo",
+      "name": "Funcional do Pablo",
+      "provider": "google_drive",
+      "external_id": "1_5gMzsBNiUbywYft-938AQACcwmCrwFe",
+      "source_url": "https://drive.google.com/drive/folders/1_5gMzsBNiUbywYft-938AQACcwmCrwFe",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "functional"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "smart-emagrecimento-2",
+      "name": "Smart Emagrecimento 2",
+      "provider": "google_drive",
+      "external_id": "1wQGHuWCXWrZNfbSTBgBz2rvWQGDGTuAZ",
+      "source_url": "https://drive.google.com/drive/folders/1wQGHuWCXWrZNfbSTBgBz2rvWQGDGTuAZ",
+      "source_kind": "drive_folder",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "recipes",
+        "weight-management"
+      ],
+      "clinical_review_required": true,
+      "status": "active"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "mentes-ansiosas",
+      "name": "Treinamento para Mentes Ansiosas - Dr. Marco Abud",
+      "provider": "google_drive",
+      "external_id": "1GKXhES0YDyXkPo2S_iIK4zNqlvVGE07U",
+      "source_url": "https://drive.google.com/drive/folders/1GKXhES0YDyXkPo2S_iIK4zNqlvVGE07U",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "mindset"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "vida-longa",
+      "name": "Segredos Para Uma Vida Longa - Dr Victor Sorrentino",
+      "provider": "google_drive",
+      "external_id": "1wpwDomDIHHP4oIikpR-qT_YlYUaUQiLg",
+      "source_url": "https://drive.google.com/drive/folders/1wpwDomDIHHP4oIikpR-qT_YlYUaUQiLg",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "hipopressivo-stc-2021",
+      "name": "Sistema de Transformacao Corporal Metodo Hipopressivo - STC 2021",
+      "provider": "google_drive",
+      "external_id": "1bO3KSCwvDMlefN1U_i8kbAk6KnLXb8ZY",
+      "source_url": "https://drive.google.com/drive/folders/1bO3KSCwvDMlefN1U_i8kbAk6KnLXb8ZY",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "core"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "barriga-negativa",
+      "name": "Veronica Motta - Barriga Negativa",
+      "provider": "google_drive",
+      "external_id": "1DHjbAHyHf-M7TEMRGbpJmVl-g_kiksqb",
+      "source_url": "https://drive.google.com/drive/folders/1DHjbAHyHf-M7TEMRGbpJmVl-g_kiksqb",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "weight-management"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "sem-gluten",
+      "name": "Viva Melhor Sem Glúten",
+      "provider": "google_drive",
+      "external_id": "19NHLNzVIBaYD4AXAj0ZUaYDLbN3rYbvN",
+      "source_url": "https://drive.google.com/drive/folders/19NHLNzVIBaYD4AXAj0ZUaYDLbN3rYbvN",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "viver-sem-diabetes",
+      "name": "Viver sem Diabetes - Dayan Siebra",
+      "provider": "google_drive",
+      "external_id": "1b1T9rrUR__KiguPLvZ13Vsv0JETPXCMe",
+      "source_url": "https://drive.google.com/drive/folders/1b1T9rrUR__KiguPLvZ13Vsv0JETPXCMe",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "wellness"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "detox-7-dias",
+      "name": "Detox de 7 Dias",
+      "provider": "google_drive",
+      "external_id": "1BT2QT-eNWi6qGEkG1hpzPEIa3GLjdKAh",
+      "source_url": "https://drive.google.com/drive/folders/1BT2QT-eNWi6qGEkG1hpzPEIa3GLjdKAh",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "weight-management"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "respire-melhor",
+      "name": "Programa Respire Melhor - Cinco Produtora",
+      "provider": "google_drive",
+      "external_id": "1-VkqfjClS17tadNGm4WhNrCy0NQXjU8y",
+      "source_url": "https://drive.google.com/drive/folders/1-VkqfjClS17tadNGm4WhNrCy0NQXjU8y",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "medical"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "emagrecimento-acelerado-2",
+      "name": "CURSO EMAGRECIMENTO ACELERADO 2",
+      "provider": "google_drive",
+      "external_id": "1z6da4SjbFNmUMvEqOv8g0tE7gFiqSUaz",
+      "source_url": "https://drive.google.com/drive/folders/1z6da4SjbFNmUMvEqOv8g0tE7gFiqSUaz",
+      "source_kind": "drive_folder",
+      "relevance_status": "amber_review",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "weight-management"
+      ],
+      "clinical_review_required": true,
+      "status": "quarantined",
+      "metadata": {
+        "risk_lane": "amber",
+        "previous_risk_lane": "red",
+        "amber_transition_date": "2026-09-26",
+        "amber_policy": "reviewable_not_publishable",
+        "publication_blockers": [
+          "clinical_or_specialist_review",
+          "rights_clearance_or_reconstruction",
+          "claim_modernization_2026"
+        ]
+      }
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "pompoarismo",
+      "name": "Segredos do Pompoarismo",
+      "provider": "google_drive",
+      "external_id": "1HvouZSckTbwpLa_K7CyD6f7wgnzKQ0oo",
+      "source_url": "https://drive.google.com/drive/folders/1HvouZSckTbwpLa_K7CyD6f7wgnzKQ0oo",
+      "source_kind": "drive_folder",
+      "relevance_status": "excluded",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "inventory_only",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness"
+      ],
+      "clinical_review_required": true,
+      "status": "archived"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "homeopatia",
+      "name": "Terapeuta em Homeopatia - Marcelo Rigotti",
+      "provider": "google_drive",
+      "external_id": "1Gyal4o-zKoEq9PHp35wCNFmq73Lof4UF",
+      "source_url": "https://drive.google.com/drive/folders/1Gyal4o-zKoEq9PHp35wCNFmq73Lof4UF",
+      "source_kind": "drive_folder",
+      "relevance_status": "excluded",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "inventory_only",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness"
+      ],
+      "clinical_review_required": true,
+      "status": "archived"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "revalida-2023",
+      "name": "Revalida 2023 - Estratégia",
+      "provider": "google_drive",
+      "external_id": "1DQQB6jeYgEXVpoKoCbxysP2WYyuYh-w8",
+      "source_url": "https://drive.google.com/drive/folders/1DQQB6jeYgEXVpoKoCbxysP2WYyuYh-w8",
+      "source_kind": "drive_folder",
+      "relevance_status": "excluded",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "inventory_only",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "medical"
+      ],
+      "clinical_review_required": true,
+      "status": "archived"
+    },
+    {
+      "parent_slug": "drive-courses-initial",
+      "slug": "emergencias-herlon",
+      "name": "Emergências Herlon 2019",
+      "provider": "google_drive",
+      "external_id": "1g7I8B2wxAJ32GZaMo8tWEYvcEVsqjvG0",
+      "source_url": "https://drive.google.com/drive/folders/1g7I8B2wxAJ32GZaMo8tWEYvcEVsqjvG0",
+      "source_kind": "drive_folder",
+      "relevance_status": "excluded",
+      "rights": {
+        "basis": "reference_only",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "inventory_only",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "medical"
+      ],
+      "clinical_review_required": true,
+      "status": "archived"
+    },
+    {
+      "parent_slug": "drive-plr-library",
+      "slug": "plr-saude-bem-estar",
+      "name": "Saúde e Bem Estar-20220330T022710Z-001.zip",
+      "provider": "google_drive",
+      "external_id": "1vB1h-N_osUmw2G1KFjws8DdPFpWqHMZf",
+      "source_url": "https://drive.google.com/file/d/1vB1h-N_osUmw2G1KFjws8DdPFpWqHMZf/view",
+      "source_kind": "archive",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "plr",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "nutrition"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "size_bytes": 1780403334
+      }
+    },
+    {
+      "parent_slug": "drive-plr-library",
+      "slug": "plr-mindset",
+      "name": "Mindset-20220330T021905Z-001.zip",
+      "provider": "google_drive",
+      "external_id": "1dGdOldHgeSvB0dM5NFFO09k2Eaf7uFv8",
+      "source_url": "https://drive.google.com/file/d/1dGdOldHgeSvB0dM5NFFO09k2Eaf7uFv8/view",
+      "source_kind": "archive",
+      "relevance_status": "adjacent",
+      "rights": {
+        "basis": "plr",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "wellness",
+        "mindset"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "size_bytes": 222292655
+      }
+    },
+    {
+      "parent_slug": "drive-plr-library",
+      "slug": "plr-musculacao",
+      "name": "Musculação-20220330T021951Z-001.zip",
+      "provider": "google_drive",
+      "external_id": "1sdpiybXQZLfEBEsrCwoN2qygkOAtMDJo",
+      "source_url": "https://drive.google.com/file/d/1sdpiybXQZLfEBEsrCwoN2qygkOAtMDJo/view",
+      "source_kind": "archive",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "plr",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "training",
+        "strength"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "size_bytes": 173363357
+      }
+    },
+    {
+      "parent_slug": "drive-plr-library",
+      "slug": "plr-culinaria",
+      "name": "Culinária-20220330T020827Z-001.zip",
+      "provider": "google_drive",
+      "external_id": "1ZAHI5u7VqYuYGay71Z4NU5AbnZvX_Mmd",
+      "source_url": "https://drive.google.com/file/d/1ZAHI5u7VqYuYGay71Z4NU5AbnZvX_Mmd/view",
+      "source_kind": "archive",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "plr",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "recipes",
+        "nutrition"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "size_bytes": 51637868
+      }
+    },
+    {
+      "parent_slug": "drive-plr-library",
+      "slug": "plr-alimentacao-dieta",
+      "name": "Alimentação e Dieta-20220330T020000Z-001.zip",
+      "provider": "google_drive",
+      "external_id": "1G8cEgUdWDYKgjHLXIJ-ELmZn2VOcewOC",
+      "source_url": "https://drive.google.com/file/d/1G8cEgUdWDYKgjHLXIJ-ELmZn2VOcewOC/view",
+      "source_kind": "archive",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "plr",
+        "verification_status": "pending",
+        "verify_each_child_license": true
+      },
+      "ingestion_policy": "metadata",
+      "ai_policy_default": "none",
+      "domain_tags": [
+        "nutrition",
+        "recipes"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "size_bytes": 185116099
+      }
+    },
+    {
+      "slug": "usda-fooddata-central",
+      "name": "USDA FoodData Central",
+      "provider": "usda_fdc",
+      "external_id": null,
+      "source_url": "https://fdc.nal.usda.gov/",
+      "source_kind": "api",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "cc0",
+        "verification_status": "verified"
+      },
+      "ingestion_policy": "full",
+      "ai_policy_default": "retrievable",
+      "domain_tags": [
+        "nutrition",
+        "foods",
+        "nutrients"
+      ],
+      "clinical_review_required": false,
+      "status": "active"
+    },
+    {
+      "slug": "wrkout-exercises-json",
+      "name": "wrkout/exercises.json",
+      "provider": "github",
+      "external_id": "wrkout/exercises.json",
+      "source_url": "https://github.com/wrkout/exercises.json",
+      "source_kind": "dataset",
+      "relevance_status": "core",
+      "rights": {
+        "basis": "public_domain",
+        "verification_status": "verified",
+        "license": "Unlicense",
+        "license_url": "https://github.com/wrkout/exercises.json/blob/master/LICENSE.md",
+        "verified_at": "2026-09-25"
+      },
+      "ingestion_policy": "full",
+      "ai_policy_default": "retrievable",
+      "domain_tags": [
+        "training",
+        "exercises"
+      ],
+      "clinical_review_required": false,
+      "status": "active",
+      "metadata": {
+        "verified_repository_license": "Unlicense",
+        "source_default_branch": "master",
+        "import_strategy": "normalize_all_exercise.json records; preserve upstream provenance; MyTrainX editorial review required before publication"
+      }
+    },
+    {
+      "slug": "open-food-facts",
+      "name": "Open Food Facts",
+      "provider": "open_food_facts",
+      "external_id": null,
+      "source_url": "https://world.openfoodfacts.org/",
+      "source_kind": "api",
+      "relevance_status": "adjacent",
+      "rights": {
+        "basis": "odbl",
+        "verification_status": "restricted"
+      },
+      "ingestion_policy": "inventory_only",
+      "ai_policy_default": "metadata_only",
+      "domain_tags": [
+        "nutrition",
+        "packaged-foods"
+      ],
+      "clinical_review_required": false,
+      "status": "paused"
+    }
+  ]
+}

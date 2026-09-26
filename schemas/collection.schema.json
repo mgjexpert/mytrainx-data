@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mytrainx.fit/schemas/collection.schema.json",
+  "title": "MyTrainX Library Collection",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "collection_type",
+    "access_policy",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "collection_type": {
+      "enum": [
+        "shelf",
+        "series",
+        "course",
+        "challenge",
+        "ebook_bundle",
+        "recipe_pack",
+        "knowledge_pack",
+        "pathway"
+      ]
+    },
+    "access_policy": {
+      "enum": [
+        "public",
+        "registered",
+        "master",
+        "owned_product",
+        "program_entitlement",
+        "staff_only"
+      ]
+    },
+    "product_slugs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "content_slug",
+          "position"
+        ],
+        "properties": {
+          "content_slug": {
+            "type": "string"
+          },
+          "position": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "section": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "required": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "review",
+        "published",
+        "archived"
+      ]
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

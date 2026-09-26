@@ -1,0 +1,807 @@
+{
+  "version": "2.0",
+  "generated_at": "2026-09-26",
+  "source": "wrkout/exercises.json",
+  "policy": "Curated queue. Source import is not publication. MyTrainX instructions require localization + exercise/safety review.",
+  "count": 114,
+  "entries": [
+    {
+      "rank": 1,
+      "source_key": "Bodyweight_Squat",
+      "source_path": "exercises/Bodyweight_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 2,
+      "source_key": "Chair_Squat",
+      "source_path": "exercises/Chair_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 3,
+      "source_key": "Goblet_Squat",
+      "source_path": "exercises/Goblet_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 4,
+      "source_key": "Dumbbell_Squat",
+      "source_path": "exercises/Dumbbell_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 5,
+      "source_key": "Barbell_Squat",
+      "source_path": "exercises/Barbell_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 6,
+      "source_key": "Barbell_Full_Squat",
+      "source_path": "exercises/Barbell_Full_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 7,
+      "source_key": "Front_Barbell_Squat",
+      "source_path": "exercises/Front_Barbell_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 8,
+      "source_key": "Box_Squat",
+      "source_path": "exercises/Box_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 9,
+      "source_key": "Romanian_Deadlift",
+      "source_path": "exercises/Romanian_Deadlift/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 10,
+      "source_key": "Barbell_Deadlift",
+      "source_path": "exercises/Barbell_Deadlift/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 11,
+      "source_key": "Trap_Bar_Deadlift",
+      "source_path": "exercises/Trap_Bar_Deadlift/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 12,
+      "source_key": "Sumo_Deadlift",
+      "source_path": "exercises/Sumo_Deadlift/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 13,
+      "source_key": "Stiff-Legged_Dumbbell_Deadlift",
+      "source_path": "exercises/Stiff-Legged_Dumbbell_Deadlift/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 14,
+      "source_key": "Barbell_Hip_Thrust",
+      "source_path": "exercises/Barbell_Hip_Thrust/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 15,
+      "source_key": "Barbell_Glute_Bridge",
+      "source_path": "exercises/Barbell_Glute_Bridge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 16,
+      "source_key": "Single_Leg_Glute_Bridge",
+      "source_path": "exercises/Single_Leg_Glute_Bridge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 17,
+      "source_key": "Pull_Through",
+      "source_path": "exercises/Pull_Through/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 18,
+      "source_key": "Hyperextensions_(Back_Extensions)",
+      "source_path": "exercises/Hyperextensions_(Back_Extensions)/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 19,
+      "source_key": "Barbell_Lunge",
+      "source_path": "exercises/Barbell_Lunge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 20,
+      "source_key": "Dumbbell_Lunges",
+      "source_path": "exercises/Dumbbell_Lunges/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 21,
+      "source_key": "Dumbbell_Rear_Lunge",
+      "source_path": "exercises/Dumbbell_Rear_Lunge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 22,
+      "source_key": "Bodyweight_Walking_Lunge",
+      "source_path": "exercises/Bodyweight_Walking_Lunge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 23,
+      "source_key": "Split_Squats",
+      "source_path": "exercises/Split_Squats/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 24,
+      "source_key": "Split_Squat_with_Dumbbells",
+      "source_path": "exercises/Split_Squat_with_Dumbbells/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 25,
+      "source_key": "Dumbbell_Step_Ups",
+      "source_path": "exercises/Dumbbell_Step_Ups/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 26,
+      "source_key": "Step-up_with_Knee_Raise",
+      "source_path": "exercises/Step-up_with_Knee_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 27,
+      "source_key": "Pushups",
+      "source_path": "exercises/Pushups/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 28,
+      "source_key": "Incline_Push-Up",
+      "source_path": "exercises/Incline_Push-Up/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 29,
+      "source_key": "Dumbbell_Bench_Press",
+      "source_path": "exercises/Dumbbell_Bench_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 30,
+      "source_key": "Barbell_Bench_Press_-_Medium_Grip",
+      "source_path": "exercises/Barbell_Bench_Press_-_Medium_Grip/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P0 fundamental movement / broad program reuse"
+    },
+    {
+      "rank": 31,
+      "source_key": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+      "source_path": "exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 32,
+      "source_key": "Cable_Chest_Press",
+      "source_path": "exercises/Cable_Chest_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 33,
+      "source_key": "Dips_-_Chest_Version",
+      "source_path": "exercises/Dips_-_Chest_Version/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 34,
+      "source_key": "Dumbbell_Shoulder_Press",
+      "source_path": "exercises/Dumbbell_Shoulder_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 35,
+      "source_key": "Barbell_Shoulder_Press",
+      "source_path": "exercises/Barbell_Shoulder_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 36,
+      "source_key": "Dumbbell_One-Arm_Shoulder_Press",
+      "source_path": "exercises/Dumbbell_One-Arm_Shoulder_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 37,
+      "source_key": "Handstand_Push-Ups",
+      "source_path": "exercises/Handstand_Push-Ups/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 38,
+      "source_key": "Bent_Over_Barbell_Row",
+      "source_path": "exercises/Bent_Over_Barbell_Row/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 39,
+      "source_key": "Bent_Over_Two-Dumbbell_Row",
+      "source_path": "exercises/Bent_Over_Two-Dumbbell_Row/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 40,
+      "source_key": "One-Arm_Dumbbell_Row",
+      "source_path": "exercises/One-Arm_Dumbbell_Row/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 41,
+      "source_key": "Inverted_Row",
+      "source_path": "exercises/Inverted_Row/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 42,
+      "source_key": "Bodyweight_Mid_Row",
+      "source_path": "exercises/Bodyweight_Mid_Row/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 43,
+      "source_key": "Pullups",
+      "source_path": "exercises/Pullups/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 44,
+      "source_key": "Chin-Up",
+      "source_path": "exercises/Chin-Up/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 45,
+      "source_key": "Band_Assisted_Pull-Up",
+      "source_path": "exercises/Band_Assisted_Pull-Up/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 46,
+      "source_key": "Close-Grip_Front_Lat_Pulldown",
+      "source_path": "exercises/Close-Grip_Front_Lat_Pulldown/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 47,
+      "source_key": "Full_Range-Of-Motion_Lat_Pulldown",
+      "source_path": "exercises/Full_Range-Of-Motion_Lat_Pulldown/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 48,
+      "source_key": "Face_Pull",
+      "source_path": "exercises/Face_Pull/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 49,
+      "source_key": "Plank",
+      "source_path": "exercises/Plank/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 50,
+      "source_key": "Dead_Bug",
+      "source_path": "exercises/Dead_Bug/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 51,
+      "source_key": "Pallof_Press",
+      "source_path": "exercises/Pallof_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 52,
+      "source_key": "Pallof_Press_With_Rotation",
+      "source_path": "exercises/Pallof_Press_With_Rotation/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 53,
+      "source_key": "Hanging_Leg_Raise",
+      "source_path": "exercises/Hanging_Leg_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 54,
+      "source_key": "Reverse_Crunch",
+      "source_path": "exercises/Reverse_Crunch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 55,
+      "source_key": "Cable_Crunch",
+      "source_path": "exercises/Cable_Crunch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 56,
+      "source_key": "Ab_Roller",
+      "source_path": "exercises/Ab_Roller/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 57,
+      "source_key": "Side_Bridge",
+      "source_path": "exercises/Side_Bridge/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 58,
+      "source_key": "Push_Up_to_Side_Plank",
+      "source_path": "exercises/Push_Up_to_Side_Plank/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 59,
+      "source_key": "Alternate_Hammer_Curl",
+      "source_path": "exercises/Alternate_Hammer_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 60,
+      "source_key": "Dumbbell_Bicep_Curl",
+      "source_path": "exercises/Dumbbell_Bicep_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 61,
+      "source_key": "Barbell_Curl",
+      "source_path": "exercises/Barbell_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 62,
+      "source_key": "EZ-Bar_Curl",
+      "source_path": "exercises/EZ-Bar_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 63,
+      "source_key": "Concentration_Curls",
+      "source_path": "exercises/Concentration_Curls/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 64,
+      "source_key": "Cable_Rope_Overhead_Triceps_Extension",
+      "source_path": "exercises/Cable_Rope_Overhead_Triceps_Extension/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 65,
+      "source_key": "Dumbbell_One-Arm_Triceps_Extension",
+      "source_path": "exercises/Dumbbell_One-Arm_Triceps_Extension/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 66,
+      "source_key": "Dips_-_Triceps_Version",
+      "source_path": "exercises/Dips_-_Triceps_Version/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 67,
+      "source_key": "Cable_Seated_Lateral_Raise",
+      "source_path": "exercises/Cable_Seated_Lateral_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 68,
+      "source_key": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+      "source_path": "exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 69,
+      "source_key": "Donkey_Calf_Raises",
+      "source_path": "exercises/Donkey_Calf_Raises/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 70,
+      "source_key": "Calf_Raise_On_A_Dumbbell",
+      "source_path": "exercises/Calf_Raise_On_A_Dumbbell/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 71,
+      "source_key": "Standing_Calf_Raises",
+      "source_path": "exercises/Standing_Calf_Raises/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 72,
+      "source_key": "Seated_Calf_Raise",
+      "source_path": "exercises/Seated_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 73,
+      "source_key": "Mountain_Climbers",
+      "source_path": "exercises/Mountain_Climbers/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 74,
+      "source_key": "Rope_Jumping",
+      "source_path": "exercises/Rope_Jumping/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 75,
+      "source_key": "Farmer's_Walk",
+      "source_path": "exercises/Farmer's_Walk/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P1 common gym-home exercise"
+    },
+    {
+      "rank": 76,
+      "source_key": "Sled_Push",
+      "source_path": "exercises/Sled_Push/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 77,
+      "source_key": "Prowler_Sprint",
+      "source_path": "exercises/Prowler_Sprint/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 78,
+      "source_key": "Sledgehammer_Swings",
+      "source_path": "exercises/Sledgehammer_Swings/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 79,
+      "source_key": "Bear_Crawl_Sled_Drags",
+      "source_path": "exercises/Bear_Crawl_Sled_Drags/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 80,
+      "source_key": "90_90_Hamstring",
+      "source_path": "exercises/90_90_Hamstring/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 81,
+      "source_key": "All_Fours_Quad_Stretch",
+      "source_path": "exercises/All_Fours_Quad_Stretch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 82,
+      "source_key": "Cat_Stretch",
+      "source_path": "exercises/Cat_Stretch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 83,
+      "source_key": "Standing_Hamstring_and_Calf_Stretch",
+      "source_path": "exercises/Standing_Hamstring_and_Calf_Stretch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 84,
+      "source_key": "Kneeling_Hip_Flexor",
+      "source_path": "exercises/Kneeling_Hip_Flexor/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 85,
+      "source_key": "Shoulder_Circles",
+      "source_path": "exercises/Shoulder_Circles/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 86,
+      "source_key": "Kettlebell_Dead_Clean",
+      "source_path": "exercises/Kettlebell_Dead_Clean/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 87,
+      "source_key": "Kettlebell_Pass_Between_The_Legs",
+      "source_path": "exercises/Kettlebell_Pass_Between_The_Legs/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 88,
+      "source_key": "Box_Jump_(Multiple_Response)",
+      "source_path": "exercises/Box_Jump_(Multiple_Response)/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 89,
+      "source_key": "Freehand_Jump_Squat",
+      "source_path": "exercises/Freehand_Jump_Squat/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 90,
+      "source_key": "Seated_Cable_Rows",
+      "source_path": "exercises/Seated_Cable_Rows/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 91,
+      "source_key": "Leg_Press",
+      "source_path": "exercises/Leg_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 92,
+      "source_key": "Leg_Extensions",
+      "source_path": "exercises/Leg_Extensions/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 93,
+      "source_key": "Lying_Leg_Curls",
+      "source_path": "exercises/Lying_Leg_Curls/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 94,
+      "source_key": "Ball_Leg_Curl",
+      "source_path": "exercises/Ball_Leg_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 95,
+      "source_key": "Barbell_Seated_Calf_Raise",
+      "source_path": "exercises/Barbell_Seated_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 96,
+      "source_key": "Calf_Press_On_The_Leg_Press_Machine",
+      "source_path": "exercises/Calf_Press_On_The_Leg_Press_Machine/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 97,
+      "source_key": "Calf_Raises_-_With_Bands",
+      "source_path": "exercises/Calf_Raises_-_With_Bands/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 98,
+      "source_key": "Dumbbell_Seated_One-Leg_Calf_Raise",
+      "source_path": "exercises/Dumbbell_Seated_One-Leg_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 99,
+      "source_key": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+      "source_path": "exercises/Intermediate_Hip_Flexor_and_Quad_Stretch/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 100,
+      "source_key": "Narrow_Stance_Leg_Press",
+      "source_path": "exercises/Narrow_Stance_Leg_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 101,
+      "source_key": "One-Arm_Kettlebell_Swings",
+      "source_path": "exercises/One-Arm_Kettlebell_Swings/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 102,
+      "source_key": "One_Arm_Lat_Pulldown",
+      "source_path": "exercises/One_Arm_Lat_Pulldown/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 103,
+      "source_key": "Rocking_Standing_Calf_Raise",
+      "source_path": "exercises/Rocking_Standing_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 104,
+      "source_key": "Seated_Leg_Curl",
+      "source_path": "exercises/Seated_Leg_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 105,
+      "source_key": "Seated_One-arm_Cable_Pulley_Rows",
+      "source_path": "exercises/Seated_One-arm_Cable_Pulley_Rows/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 106,
+      "source_key": "Single-Leg_Leg_Extension",
+      "source_path": "exercises/Single-Leg_Leg_Extension/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 107,
+      "source_key": "Smith_Machine_Calf_Raise",
+      "source_path": "exercises/Smith_Machine_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 108,
+      "source_key": "Smith_Machine_Leg_Press",
+      "source_path": "exercises/Smith_Machine_Leg_Press/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 109,
+      "source_key": "Smith_Machine_Reverse_Calf_Raises",
+      "source_path": "exercises/Smith_Machine_Reverse_Calf_Raises/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 110,
+      "source_key": "Standing_Barbell_Calf_Raise",
+      "source_path": "exercises/Standing_Barbell_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 111,
+      "source_key": "Standing_Dumbbell_Calf_Raise",
+      "source_path": "exercises/Standing_Dumbbell_Calf_Raise/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 112,
+      "source_key": "Standing_Hip_Flexors",
+      "source_path": "exercises/Standing_Hip_Flexors/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 113,
+      "source_key": "Standing_Leg_Curl",
+      "source_path": "exercises/Standing_Leg_Curl/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    },
+    {
+      "rank": 114,
+      "source_key": "Wide-Grip_Lat_Pulldown",
+      "source_path": "exercises/Wide-Grip_Lat_Pulldown/exercise.json",
+      "status": "priority_localization_review",
+      "rationale": "P2 conditioning-mobility coverage"
+    }
+  ]
+}

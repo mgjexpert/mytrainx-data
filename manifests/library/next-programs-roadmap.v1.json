@@ -1,0 +1,153 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-25",
+  "programs": [
+    {
+      "slug": "core-21",
+      "title": "MyTrainX Core 21",
+      "status": "concept_ready",
+      "length": "21 sessions",
+      "access": "master_or_one_time",
+      "structure": [
+        "foundation",
+        "anti-extension",
+        "anti-rotation",
+        "lateral-stability",
+        "dynamic-core",
+        "integration"
+      ],
+      "requirements": [
+        "exercise review",
+        "owned media",
+        "progression graph"
+      ]
+    },
+    {
+      "slug": "home-30",
+      "title": "MyTrainX Home 30",
+      "status": "concept_ready",
+      "length": "30 days",
+      "access": "master_or_one_time",
+      "structure": [
+        "bodyweight-foundations",
+        "lower-body",
+        "push",
+        "pull-with-band-or-household-option",
+        "core",
+        "conditioning",
+        "recovery"
+      ],
+      "requirements": [
+        "no-equipment primary path",
+        "band optional path",
+        "owned media"
+      ]
+    },
+    {
+      "slug": "hiit-pathway",
+      "title": "MyTrainX HIIT Pathway",
+      "status": "concept_ready",
+      "levels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "access": "master",
+      "structure": [
+        "movement-quality",
+        "interval-basics",
+        "work-rest-control",
+        "mixed-modal",
+        "advanced-density"
+      ],
+      "requirements": [
+        "screening guidance",
+        "low-impact alternatives",
+        "recovery rules"
+      ]
+    },
+    {
+      "slug": "calisthenics-foundations",
+      "title": "MyTrainX Calisthenics Foundations",
+      "status": "concept_ready",
+      "access": "master",
+      "structure": [
+        "push",
+        "pull",
+        "core",
+        "support",
+        "hang",
+        "scapular-control",
+        "basic-inversion-prep"
+      ],
+      "unlocks": [
+        "handstand",
+        "front-lever",
+        "back-lever",
+        "planche"
+      ],
+      "requirements": [
+        "progression graph",
+        "owned demonstrations",
+        "advanced-skill review"
+      ]
+    },
+    {
+      "slug": "habits-360",
+      "title": "MyTrainX Habits 360",
+      "status": "concept_ready",
+      "access": "master",
+      "structure": [
+        "environment",
+        "planning",
+        "sleep",
+        "movement",
+        "food-prep",
+        "consistency",
+        "recovery",
+        "review"
+      ],
+      "requirements": [
+        "behavioral editorial review"
+      ]
+    },
+    {
+      "slug": "strength-foundations",
+      "title": "MyTrainX Strength Foundations",
+      "status": "concept_ready",
+      "access": "master_or_one_time",
+      "structure": [
+        "movement-patterns",
+        "technique",
+        "effort",
+        "volume",
+        "progression",
+        "program-design",
+        "deload-and-recovery"
+      ],
+      "evidence_anchor": [
+        "ACSM 2026 resistance training position stand"
+      ]
+    },
+    {
+      "slug": "meal-prep",
+      "title": "MyTrainX Meal Prep",
+      "status": "concept_ready",
+      "access": "master_or_one_time",
+      "structure": [
+        "planning",
+        "shopping",
+        "protein-bases",
+        "carb-bases",
+        "vegetables",
+        "sauces",
+        "storage",
+        "assembly"
+      ],
+      "requirements": [
+        "food-safety review",
+        "FDC nutrient mapping"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "version": "1.0",
+  "collections": [
+    {
+      "slug": "start-here",
+      "title": "Comece Aqui",
+      "access": "public"
+    },
+    {
+      "slug": "training-fundamentals",
+      "title": "Fundamentos do Treino",
+      "access": "registered"
+    },
+    {
+      "slug": "exercise-encyclopedia",
+      "title": "Enciclopédia de Exercícios",
+      "access": "registered"
+    },
+    {
+      "slug": "train-at-home",
+      "title": "Treino em Casa",
+      "access": "master"
+    },
+    {
+      "slug": "hiit",
+      "title": "HIIT",
+      "access": "master"
+    },
+    {
+      "slug": "build-strength",
+      "title": "Força & Hipertrofia",
+      "access": "master"
+    },
+    {
+      "slug": "core",
+      "title": "Core",
+      "access": "master"
+    },
+    {
+      "slug": "calisthenics-foundations",
+      "title": "Calistenia — Fundamentos",
+      "access": "master"
+    },
+    {
+      "slug": "handstand",
+      "title": "Skill: Handstand",
+      "access": "master"
+    },
+    {
+      "slug": "front-lever",
+      "title": "Skill: Front Lever",
+      "access": "master"
+    },
+    {
+      "slug": "mobility-recovery",
+      "title": "Mobilidade & Recovery",
+      "access": "master"
+    },
+    {
+      "slug": "nutrition-fundamentals",
+      "title": "Fundamentos da Nutrição",
+      "access": "registered"
+    },
+    {
+      "slug": "macronutrients",
+      "title": "Macronutrientes",
+      "access": "master"
+    },
+    {
+      "slug": "mytrainx-kitchen",
+      "title": "MyTrainX Kitchen",
+      "access": "registered"
+    },
+    {
+      "slug": "high-protein-recipes",
+      "title": "Receitas High Protein",
+      "access": "master"
+    },
+    {
+      "slug": "meal-prep",
+      "title": "Meal Prep",
+      "access": "master"
+    },
+    {
+      "slug": "habits-360",
+      "title": "Hábitos 360",
+      "access": "master"
+    },
+    {
+      "slug": "wkt-resources",
+      "title": "Recursos WKT",
+      "access": "program_entitlement"
+    },
+    {
+      "slug": "my-downloads",
+      "title": "Meus Downloads",
+      "access": "registered"
+    },
+    {
+      "slug": "my-products",
+      "title": "Meus Produtos",
+      "access": "registered"
+    }
+  ]
+}

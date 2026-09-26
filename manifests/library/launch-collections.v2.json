@@ -1,0 +1,126 @@
+{
+  "version": "2.0",
+  "generated_at": "2026-09-25",
+  "collections": [
+    {
+      "slug": "start-here",
+      "title": "Comece Aqui",
+      "access": "public",
+      "purpose": "onboarding"
+    },
+    {
+      "slug": "training-fundamentals",
+      "title": "Fundamentos do Treino",
+      "access": "registered",
+      "purpose": "education"
+    },
+    {
+      "slug": "exercise-encyclopedia",
+      "title": "Enciclopédia de Exercícios",
+      "access": "public",
+      "purpose": "canonical_exercise_discovery"
+    },
+    {
+      "slug": "train-at-home",
+      "title": "Treine em Casa",
+      "access": "mixed",
+      "purpose": "workouts"
+    },
+    {
+      "slug": "hiit",
+      "title": "HIIT",
+      "access": "mixed",
+      "purpose": "conditioning"
+    },
+    {
+      "slug": "build-strength",
+      "title": "Força & Hipertrofia",
+      "access": "mixed",
+      "purpose": "strength"
+    },
+    {
+      "slug": "core",
+      "title": "Core",
+      "access": "mixed",
+      "purpose": "core"
+    },
+    {
+      "slug": "calisthenics-foundations",
+      "title": "Calistenia — Fundamentos",
+      "access": "master",
+      "purpose": "skill_path"
+    },
+    {
+      "slug": "handstand",
+      "title": "Skill: Handstand",
+      "access": "master",
+      "purpose": "skill_path"
+    },
+    {
+      "slug": "front-lever",
+      "title": "Skill: Front Lever",
+      "access": "master",
+      "purpose": "skill_path"
+    },
+    {
+      "slug": "mobility-recovery",
+      "title": "Mobilidade & Recovery",
+      "access": "mixed",
+      "purpose": "recovery"
+    },
+    {
+      "slug": "nutrition-fundamentals",
+      "title": "Fundamentos de Nutrição",
+      "access": "registered",
+      "purpose": "nutrition_education"
+    },
+    {
+      "slug": "macronutrients",
+      "title": "Macronutrientes sem Complicação",
+      "access": "registered",
+      "purpose": "nutrition_education"
+    },
+    {
+      "slug": "mytrainx-kitchen",
+      "title": "MyTrainX Kitchen",
+      "access": "mixed",
+      "purpose": "recipes"
+    },
+    {
+      "slug": "high-protein-recipes",
+      "title": "Receitas Ricas em Proteína",
+      "access": "master",
+      "purpose": "recipes"
+    },
+    {
+      "slug": "meal-prep",
+      "title": "Meal Prep",
+      "access": "master",
+      "purpose": "recipes_planning"
+    },
+    {
+      "slug": "habits-360",
+      "title": "Hábitos 360",
+      "access": "master",
+      "purpose": "wellness"
+    },
+    {
+      "slug": "wkt-resources",
+      "title": "Recursos WKT",
+      "access": "program_entitlement",
+      "purpose": "program_support"
+    },
+    {
+      "slug": "my-downloads",
+      "title": "Meus Downloads",
+      "access": "registered",
+      "purpose": "user_library"
+    },
+    {
+      "slug": "my-products",
+      "title": "Meus Produtos",
+      "access": "registered",
+      "purpose": "user_library"
+    }
+  ]
+}
