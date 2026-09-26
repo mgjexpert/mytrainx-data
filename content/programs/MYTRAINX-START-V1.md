@@ -1,93 +1,363 @@
 # MyTrainX Start — 4 Weeks
 
-Status: DRAFT / ORIGINAL PRODUCTION
-Audience: healthy adults beginning or returning to structured exercise
-Access target: registered preview + Master/full product
-Primary goal: build consistency, movement confidence and a sustainable training habit
+**Status:** DRAFT / ORIGINAL PRODUCTION  
+**Audience:** healthy adults beginning or returning to structured exercise  
+**Access target:** registered preview + Master/full product  
+**Primary goal:** build consistency, movement confidence and a sustainable training habit  
+**Version:** 1.1 — 2026-09-26
 
 ## Product promise
+
 A four-week guided introduction to MyTrainX that teaches the user how to train, not merely how to copy workouts.
 
-## Structure
-Week 0 — onboarding and readiness
-Week 1 — learn the patterns
-Week 2 — build consistency
-Week 3 — progressive challenge
-Week 4 — consolidate and choose the next path
+The program is deliberately simple:
+- three full-body sessions per week;
+- five primary movements per session;
+- optional low-intensity activity between sessions;
+- one small progression at a time;
+- Coach X uses adherence + check-in context before changing the plan.
 
-## Weekly rhythm
-Default:
-- 3 resistance/full-body sessions
-- 2 optional low-intensity activity/mobility days
-- daily movement encouraged
-- recovery day(s) according to individual response
+This is a general product template, not medical prescription.
 
-This is a product template, not a medical prescription.
+---
 
-## Session architecture
-1. readiness check
-2. warm-up
-3. 4–6 primary exercises
-4. optional conditioning finisher
-5. cool-down
-6. quick reflection in app
+# Week 0 — onboarding and readiness
 
-## Movement curriculum
-Squat
-Hinge
-Lunge
-Horizontal push
-Horizontal pull
-Vertical push/pull where appropriate
-Carry
-Core bracing
-Locomotion/conditioning
+Before session 1:
 
-## Progression
-Progress can come from:
-- better movement quality;
-- additional reps;
-- additional sets;
-- modest load increase;
-- more difficult variation;
-- reduced assistance;
-- improved control;
-- better work capacity.
+1. choose the preferred tracking dimensions in MyTrainX Progress;
+2. optionally record baseline weight/waist/photos;
+3. complete first weekly check-in;
+4. identify available equipment;
+5. choose the exercise track that fits the environment;
+6. learn RIR/RPE basics;
+7. read **Treino de Força sem Complicação**;
+8. read **Recovery sem Ruído**.
 
-Coach X should choose the smallest sensible progression rather than always increasing load.
+## Equipment tracks
 
-## Week 1
-Focus: technique and confidence.
-Intensity: moderate and submaximal.
-User should finish feeling capable of returning.
+### Track A — minimal
+- stable chair/bench;
+- bodyweight;
+- one or two dumbbells when available.
 
-## Week 2
-Focus: repeatability.
-Introduce one small progression in selected movements.
+### Track B — home basic
+- dumbbells;
+- resistance band;
+- stable bench/support.
 
-## Week 3
-Focus: volume or difficulty progression while preserving technique.
+### Track C — gym
+- dumbbells;
+- cable station;
+- rack/machines as appropriate.
 
-## Week 4
-Focus: consolidate, reassess and route user toward:
-- Strength Foundations
-- Home 30
-- HIIT Pathway
-- WKT
-- Calisthenics Foundations
-- general Master programming
+Coach X chooses variations from the same movement family rather than changing the whole session architecture.
 
-## Required content assets
-- onboarding article
-- readiness checklist
-- 12 workout records
-- exercise mappings
-- 4 weekly education lessons
-- recovery guide
-- progression guide
-- completion assessment
-- certificate/badge concept
-- Coach X prompts/actions
+---
 
-## Safety
-Stop and seek appropriate professional assessment for concerning pain, acute injury symptoms or medical warning signs. Exercise substitutions should be available for common capability limitations without pretending to diagnose the cause.
+# Session architecture
+
+Every session follows:
+
+1. **Readiness check — 30 seconds**
+   - energy;
+   - unusual pain/symptoms;
+   - previous-session recovery.
+
+2. **Warm-up — 5–8 min**
+   - easy locomotion;
+   - 1–2 preparation sets for first movements.
+
+3. **Five primary exercises**
+
+4. **Optional finisher — 3–8 min**
+   - only when useful and tolerated.
+
+5. **Quick reflection**
+   - session completed?
+   - effort appropriate?
+   - any exercise to modify next time?
+
+## Default effort
+
+Most working sets should finish with roughly **2–4 repetitions in reserve** during the first weeks.
+
+The goal is not to test maximum capacity.
+
+---
+
+# Exercise families
+
+## Squat
+Primary options:
+- `agachamento-ao-banco`
+- `agachamento-livre`
+- `goblet-squat`
+
+Later:
+- `agachamento-com-barra`
+- `front-squat`
+
+## Hinge / hip extension
+Primary options:
+- `ponte-de-gluteos`
+- `levantamento-romeno-com-halteres`
+
+Later:
+- `hip-thrust-com-barra`
+- `trap-bar-deadlift`
+
+## Horizontal push
+Primary options:
+- `flexao-inclinada`
+- `flexao-de-bracos`
+- `supino-com-halteres`
+
+## Horizontal / vertical pull
+Primary options:
+- `remada-unilateral-com-halter`
+- `remada-invertida`
+- `remada-baixa-no-cabo`
+- `puxada-frente-pegada-neutra`
+
+Later:
+- `barra-fixa-pronada`
+
+## Lunge / single-leg
+- `afundo-estatico`
+- `afundo-reverso-com-halteres`
+- `step-up-com-halteres`
+
+## Core
+- `dead-bug`
+- `prancha-frontal`
+- `prancha-lateral`
+- `pallof-press`
+
+## Carry / conditioning
+- `caminhada-do-fazendeiro`
+- `mountain-climber`
+
+---
+
+# Week 1 — Learn the patterns
+
+Goal: finish each session feeling capable of returning.
+
+## Session 1A
+
+1. Squat — 2 × 8–12  
+   Default: `agachamento-ao-banco`
+
+2. Horizontal push — 2 × 6–12  
+   Default: `flexao-inclinada`
+
+3. Horizontal pull — 2 × 8–12 / side  
+   Default: `remada-unilateral-com-halter`
+
+4. Hip extension — 2 × 10–15  
+   Default: `ponte-de-gluteos`
+
+5. Core — 2 × 6–10 / side  
+   Default: `dead-bug`
+
+## Session 1B
+
+1. Lunge — 2 × 6–10 / side  
+   Default: `afundo-estatico`
+
+2. Hinge — 2 × 8–12  
+   Default: `levantamento-romeno-com-halteres`
+
+3. Vertical push — 2 × 8–12  
+   Default: `desenvolvimento-com-halteres`
+
+4. Anti-rotation — 2 × 8–12 / side  
+   Default: `pallof-press`  
+   Minimal alternative: `prancha-lateral`
+
+5. Calf — 2 × 12–20  
+   Default: `elevacao-panturrilha-em-pe`
+
+## Session 1C
+
+1. Squat — 2 × 8–12  
+   Default: `agachamento-livre`
+
+2. Push — 2 × 6–12  
+   Default: `flexao-inclinada` or `flexao-de-bracos`
+
+3. Pull — 2 × 8–12  
+   Default: `remada-invertida` or `remada-baixa-no-cabo`
+
+4. Carry — 3 × 20–40 s  
+   Default: `caminhada-do-fazendeiro`  
+   No-weight alternative: controlled walking + posture drill.
+
+5. Core — 2 × 20–40 s  
+   Default: `prancha-frontal`
+
+---
+
+# Week 2 — Repeat before adding
+
+Repeat A / B / C.
+
+Primary objective:
+- same technique;
+- same exercise family;
+- more confidence.
+
+Choose **one** progression where appropriate:
+- +1–2 repetitions per set;
+- slightly lower support on incline push-up;
+- slightly heavier dumbbell;
+- longer controlled carry;
+- small increase in plank duration.
+
+Do not progress every exercise simultaneously.
+
+---
+
+# Week 3 — Build a little more work
+
+If Week 2 was completed with adequate recovery:
+
+- selected first/second movements may move from 2 to **3 sets**;
+- other movements remain at 2 sets;
+- maintain 1–3 repetitions in reserve on most sets.
+
+## Session 3A
+- squat: 3 sets;
+- push: 3 sets;
+- pull: 2 sets;
+- hip extension: 2 sets;
+- core: 2 sets.
+
+## Session 3B
+- lunge: 3 sets;
+- hinge: 3 sets;
+- vertical push: 2 sets;
+- anti-rotation: 2 sets;
+- calf: 2 sets.
+
+## Session 3C
+- squat: 2–3 sets;
+- push: 2–3 sets;
+- pull: 2–3 sets;
+- carry: 3 rounds;
+- core: 2 sets.
+
+If weekly check-in shows clear deterioration in sleep/energy/adherence, Coach X can keep Week 2 volume instead of forcing progression.
+
+---
+
+# Week 4 — Consolidate
+
+Week 4 is not a test week.
+
+The goal is to prove the routine is repeatable.
+
+Choose one of three options:
+
+### Option 1 — consolidate
+Repeat Week 3.
+
+### Option 2 — slightly progress
+Increase load or reps in 1–3 movements only.
+
+### Option 3 — reduce
+Return selected exercises to two sets if fatigue/context warrants.
+
+## End-of-week review
+
+Coach X reviews:
+- 12 planned sessions;
+- sessions completed;
+- movement confidence;
+- exercise substitutions;
+- latest weekly check-ins;
+- optional body trends;
+- subjective enjoyment;
+- equipment preferences.
+
+Then route the member toward:
+- Strength Foundations;
+- Home 30;
+- HIIT Pathway;
+- WKT;
+- Calisthenics Foundations;
+- general Master programming.
+
+---
+
+# Version-minimum rule
+
+Every session must have a smaller version.
+
+Example:
+
+Full:
+- 5 exercises × 2–3 sets.
+
+Minimum:
+- squat;
+- push;
+- pull;
+- 1–2 sets each.
+
+A difficult week should not automatically convert into zero weeks.
+
+This rule applies only when the user is otherwise well enough to train and has no warning symptoms requiring another course of action.
+
+---
+
+# Coach X decision hierarchy
+
+Before changing the program:
+
+1. Did the user complete the planned sessions?
+2. Was technique acceptable?
+3. Was effort within target?
+4. Did recovery remain reasonably stable?
+5. Does the user want progression?
+6. What is the smallest useful change?
+
+Prefer:
+- one more rep;
+- a small load increase;
+- one extra set;
+- a slightly harder variation.
+
+Avoid changing five variables simultaneously.
+
+---
+
+# Required supporting content
+
+Now available / in production:
+- onboarding and Progress system;
+- `Treino de Força sem Complicação`;
+- `Recovery sem Ruído`;
+- exercise encyclopedia;
+- weekly check-in;
+- goals;
+- private progress photos.
+
+Still required:
+- session warm-up cards;
+- RPE/RIR micro lesson;
+- equipment substitution matrix;
+- completion badge;
+- Coach X program-review prompt;
+- program completion assessment.
+
+---
+
+# Safety
+
+Stop and seek appropriate professional assessment for concerning pain, acute injury symptoms or medical warning signs.
+
+Exercise substitutions should solve capability/equipment problems without pretending to diagnose the reason for a limitation.
+
+The program is designed for general healthy-adult fitness use and must not be presented as treatment for disease or injury.
