@@ -73,6 +73,7 @@
       "enum": [
         "core",
         "adjacent",
+        "amber_review",
         "quarantine",
         "excluded",
         "unreviewed"
