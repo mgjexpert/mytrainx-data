@@ -1,0 +1,4378 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-26",
+  "source": {
+    "repository": "wrkout/exercises.json",
+    "branch": "master",
+    "license": "Unlicense",
+    "policy": "source-only until MyTrainX review"
+  },
+  "count": 873,
+  "entries": [
+    {
+      "source_key": "3_4_Sit-Up",
+      "source_path": "exercises/3_4_Sit-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "90_90_Hamstring",
+      "source_path": "exercises/90_90_Hamstring/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ab_Crunch_Machine",
+      "source_path": "exercises/Ab_Crunch_Machine/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ab_Roller",
+      "source_path": "exercises/Ab_Roller/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Adductor",
+      "source_path": "exercises/Adductor/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Adductor_Groin",
+      "source_path": "exercises/Adductor_Groin/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Advanced_Kettlebell_Windmill",
+      "source_path": "exercises/Advanced_Kettlebell_Windmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Air_Bike",
+      "source_path": "exercises/Air_Bike/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "All_Fours_Quad_Stretch",
+      "source_path": "exercises/All_Fours_Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternate_Hammer_Curl",
+      "source_path": "exercises/Alternate_Hammer_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternate_Heel_Touchers",
+      "source_path": "exercises/Alternate_Heel_Touchers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternate_Incline_Dumbbell_Curl",
+      "source_path": "exercises/Alternate_Incline_Dumbbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternate_Leg_Diagonal_Bound",
+      "source_path": "exercises/Alternate_Leg_Diagonal_Bound/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Cable_Shoulder_Press",
+      "source_path": "exercises/Alternating_Cable_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Deltoid_Raise",
+      "source_path": "exercises/Alternating_Deltoid_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Floor_Press",
+      "source_path": "exercises/Alternating_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Hang_Clean",
+      "source_path": "exercises/Alternating_Hang_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Kettlebell_Press",
+      "source_path": "exercises/Alternating_Kettlebell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Kettlebell_Row",
+      "source_path": "exercises/Alternating_Kettlebell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Alternating_Renegade_Row",
+      "source_path": "exercises/Alternating_Renegade_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ankle_Circles",
+      "source_path": "exercises/Ankle_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ankle_On_The_Knee",
+      "source_path": "exercises/Ankle_On_The_Knee/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Anterior_Tibialis-SMR",
+      "source_path": "exercises/Anterior_Tibialis-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Anti-Gravity_Press",
+      "source_path": "exercises/Anti-Gravity_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Arm_Circles",
+      "source_path": "exercises/Arm_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Arnold_Dumbbell_Press",
+      "source_path": "exercises/Arnold_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Around_The_Worlds",
+      "source_path": "exercises/Around_The_Worlds/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Atlas_Stone_Trainer",
+      "source_path": "exercises/Atlas_Stone_Trainer/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Atlas_Stones",
+      "source_path": "exercises/Atlas_Stones/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Axle_Deadlift",
+      "source_path": "exercises/Axle_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Back_Flyes_-_With_Bands",
+      "source_path": "exercises/Back_Flyes_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Backward_Drag",
+      "source_path": "exercises/Backward_Drag/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Backward_Medicine_Ball_Throw",
+      "source_path": "exercises/Backward_Medicine_Ball_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Balance_Board",
+      "source_path": "exercises/Balance_Board/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ball_Leg_Curl",
+      "source_path": "exercises/Ball_Leg_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Assisted_Pull-Up",
+      "source_path": "exercises/Band_Assisted_Pull-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Good_Morning",
+      "source_path": "exercises/Band_Good_Morning/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Good_Morning_(Pull_Through)",
+      "source_path": "exercises/Band_Good_Morning_(Pull_Through)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Hip_Adductions",
+      "source_path": "exercises/Band_Hip_Adductions/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Pull_Apart",
+      "source_path": "exercises/Band_Pull_Apart/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Band_Skull_Crusher",
+      "source_path": "exercises/Band_Skull_Crusher/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Ab_Rollout",
+      "source_path": "exercises/Barbell_Ab_Rollout/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Ab_Rollout_-_On_Knees",
+      "source_path": "exercises/Barbell_Ab_Rollout_-_On_Knees/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Bench_Press_-_Medium_Grip",
+      "source_path": "exercises/Barbell_Bench_Press_-_Medium_Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Curl",
+      "source_path": "exercises/Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Curls_Lying_Against_An_Incline",
+      "source_path": "exercises/Barbell_Curls_Lying_Against_An_Incline/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Deadlift",
+      "source_path": "exercises/Barbell_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Full_Squat",
+      "source_path": "exercises/Barbell_Full_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Glute_Bridge",
+      "source_path": "exercises/Barbell_Glute_Bridge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Guillotine_Bench_Press",
+      "source_path": "exercises/Barbell_Guillotine_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Hack_Squat",
+      "source_path": "exercises/Barbell_Hack_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Hip_Thrust",
+      "source_path": "exercises/Barbell_Hip_Thrust/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+      "source_path": "exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Incline_Shoulder_Raise",
+      "source_path": "exercises/Barbell_Incline_Shoulder_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Lunge",
+      "source_path": "exercises/Barbell_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Rear_Delt_Row",
+      "source_path": "exercises/Barbell_Rear_Delt_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Rollout_from_Bench",
+      "source_path": "exercises/Barbell_Rollout_from_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Seated_Calf_Raise",
+      "source_path": "exercises/Barbell_Seated_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Shoulder_Press",
+      "source_path": "exercises/Barbell_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Shrug",
+      "source_path": "exercises/Barbell_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Shrug_Behind_The_Back",
+      "source_path": "exercises/Barbell_Shrug_Behind_The_Back/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Side_Bend",
+      "source_path": "exercises/Barbell_Side_Bend/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Side_Split_Squat",
+      "source_path": "exercises/Barbell_Side_Split_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Squat",
+      "source_path": "exercises/Barbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Squat_To_A_Bench",
+      "source_path": "exercises/Barbell_Squat_To_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Step_Ups",
+      "source_path": "exercises/Barbell_Step_Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Barbell_Walking_Lunge",
+      "source_path": "exercises/Barbell_Walking_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Battling_Ropes",
+      "source_path": "exercises/Battling_Ropes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bear_Crawl_Sled_Drags",
+      "source_path": "exercises/Bear_Crawl_Sled_Drags/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Behind_Head_Chest_Stretch",
+      "source_path": "exercises/Behind_Head_Chest_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Dips",
+      "source_path": "exercises/Bench_Dips/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Jump",
+      "source_path": "exercises/Bench_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Press_-_Powerlifting",
+      "source_path": "exercises/Bench_Press_-_Powerlifting/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Press_-_With_Bands",
+      "source_path": "exercises/Bench_Press_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Press_with_Chains",
+      "source_path": "exercises/Bench_Press_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bench_Sprint",
+      "source_path": "exercises/Bench_Sprint/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent-Arm_Barbell_Pullover",
+      "source_path": "exercises/Bent-Arm_Barbell_Pullover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent-Arm_Dumbbell_Pullover",
+      "source_path": "exercises/Bent-Arm_Dumbbell_Pullover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent-Knee_Hip_Raise",
+      "source_path": "exercises/Bent-Knee_Hip_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Barbell_Row",
+      "source_path": "exercises/Bent_Over_Barbell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+      "source_path": "exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Low-Pulley_Side_Lateral",
+      "source_path": "exercises/Bent_Over_Low-Pulley_Side_Lateral/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_One-Arm_Long_Bar_Row",
+      "source_path": "exercises/Bent_Over_One-Arm_Long_Bar_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Two-Arm_Long_Bar_Row",
+      "source_path": "exercises/Bent_Over_Two-Arm_Long_Bar_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Two-Dumbbell_Row",
+      "source_path": "exercises/Bent_Over_Two-Dumbbell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Over_Two-Dumbbell_Row_With_Palms_In",
+      "source_path": "exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bent_Press",
+      "source_path": "exercises/Bent_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bicycling,_Stationary",
+      "source_path": "exercises/Bicycling,_Stationary/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bicycling",
+      "source_path": "exercises/Bicycling/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Board_Press",
+      "source_path": "exercises/Board_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Body-Up",
+      "source_path": "exercises/Body-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Body_Tricep_Press",
+      "source_path": "exercises/Body_Tricep_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bodyweight_Flyes",
+      "source_path": "exercises/Bodyweight_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bodyweight_Mid_Row",
+      "source_path": "exercises/Bodyweight_Mid_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bodyweight_Squat",
+      "source_path": "exercises/Bodyweight_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bodyweight_Walking_Lunge",
+      "source_path": "exercises/Bodyweight_Walking_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+      "source_path": "exercises/Bosu_Ball_Cable_Crunch_With_Side_Bends/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bottoms-Up_Clean_From_The_Hang_Position",
+      "source_path": "exercises/Bottoms-Up_Clean_From_The_Hang_Position/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bottoms_Up",
+      "source_path": "exercises/Bottoms_Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Box_Jump_(Multiple_Response)",
+      "source_path": "exercises/Box_Jump_(Multiple_Response)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Box_Skip",
+      "source_path": "exercises/Box_Skip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Box_Squat",
+      "source_path": "exercises/Box_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Box_Squat_with_Bands",
+      "source_path": "exercises/Box_Squat_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Box_Squat_with_Chains",
+      "source_path": "exercises/Box_Squat_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Brachialis-SMR",
+      "source_path": "exercises/Brachialis-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Bradford_Rocky_Presses",
+      "source_path": "exercises/Bradford_Rocky_Presses/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Butt-Ups",
+      "source_path": "exercises/Butt-Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Butt_Lift_(Bridge)",
+      "source_path": "exercises/Butt_Lift_(Bridge)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Butterfly",
+      "source_path": "exercises/Butterfly/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Chest_Press",
+      "source_path": "exercises/Cable_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Crossover",
+      "source_path": "exercises/Cable_Crossover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Crunch",
+      "source_path": "exercises/Cable_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Deadlifts",
+      "source_path": "exercises/Cable_Deadlifts/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Hammer_Curls_-_Rope_Attachment",
+      "source_path": "exercises/Cable_Hammer_Curls_-_Rope_Attachment/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Hip_Adduction",
+      "source_path": "exercises/Cable_Hip_Adduction/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Incline_Pushdown",
+      "source_path": "exercises/Cable_Incline_Pushdown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Incline_Triceps_Extension",
+      "source_path": "exercises/Cable_Incline_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Internal_Rotation",
+      "source_path": "exercises/Cable_Internal_Rotation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Iron_Cross",
+      "source_path": "exercises/Cable_Iron_Cross/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Judo_Flip",
+      "source_path": "exercises/Cable_Judo_Flip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Lying_Triceps_Extension",
+      "source_path": "exercises/Cable_Lying_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_One_Arm_Tricep_Extension",
+      "source_path": "exercises/Cable_One_Arm_Tricep_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Preacher_Curl",
+      "source_path": "exercises/Cable_Preacher_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Rear_Delt_Fly",
+      "source_path": "exercises/Cable_Rear_Delt_Fly/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Reverse_Crunch",
+      "source_path": "exercises/Cable_Reverse_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Rope_Overhead_Triceps_Extension",
+      "source_path": "exercises/Cable_Rope_Overhead_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Rope_Rear-Delt_Rows",
+      "source_path": "exercises/Cable_Rope_Rear-Delt_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Russian_Twists",
+      "source_path": "exercises/Cable_Russian_Twists/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Seated_Crunch",
+      "source_path": "exercises/Cable_Seated_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Seated_Lateral_Raise",
+      "source_path": "exercises/Cable_Seated_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Shoulder_Press",
+      "source_path": "exercises/Cable_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Shrugs",
+      "source_path": "exercises/Cable_Shrugs/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cable_Wrist_Curl",
+      "source_path": "exercises/Cable_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf-Machine_Shoulder_Shrug",
+      "source_path": "exercises/Calf-Machine_Shoulder_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Press",
+      "source_path": "exercises/Calf_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Press_On_The_Leg_Press_Machine",
+      "source_path": "exercises/Calf_Press_On_The_Leg_Press_Machine/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Raise_On_A_Dumbbell",
+      "source_path": "exercises/Calf_Raise_On_A_Dumbbell/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Raises_-_With_Bands",
+      "source_path": "exercises/Calf_Raises_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Stretch_Elbows_Against_Wall",
+      "source_path": "exercises/Calf_Stretch_Elbows_Against_Wall/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calf_Stretch_Hands_Against_Wall",
+      "source_path": "exercises/Calf_Stretch_Hands_Against_Wall/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Calves-SMR",
+      "source_path": "exercises/Calves-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Car_Deadlift",
+      "source_path": "exercises/Car_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Car_Drivers",
+      "source_path": "exercises/Car_Drivers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Carioca_Quick_Step",
+      "source_path": "exercises/Carioca_Quick_Step/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cat_Stretch",
+      "source_path": "exercises/Cat_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Catch_and_Overhead_Throw",
+      "source_path": "exercises/Catch_and_Overhead_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chain_Handle_Extension",
+      "source_path": "exercises/Chain_Handle_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chain_Press",
+      "source_path": "exercises/Chain_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chair_Leg_Extended_Stretch",
+      "source_path": "exercises/Chair_Leg_Extended_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chair_Lower_Back_Stretch",
+      "source_path": "exercises/Chair_Lower_Back_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chair_Squat",
+      "source_path": "exercises/Chair_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chair_Upper_Body_Stretch",
+      "source_path": "exercises/Chair_Upper_Body_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_And_Front_Of_Shoulder_Stretch",
+      "source_path": "exercises/Chest_And_Front_Of_Shoulder_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_Push_(multiple_response)",
+      "source_path": "exercises/Chest_Push_(multiple_response)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_Push_(single_response)",
+      "source_path": "exercises/Chest_Push_(single_response)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_Push_from_3_point_stance",
+      "source_path": "exercises/Chest_Push_from_3_point_stance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_Push_with_Run_Release",
+      "source_path": "exercises/Chest_Push_with_Run_Release/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chest_Stretch_on_Stability_Ball",
+      "source_path": "exercises/Chest_Stretch_on_Stability_Ball/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Child's_Pose",
+      "source_path": "exercises/Child's_Pose/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chin-Up",
+      "source_path": "exercises/Chin-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Chin_To_Chest_Stretch",
+      "source_path": "exercises/Chin_To_Chest_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Circus_Bell",
+      "source_path": "exercises/Circus_Bell/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean",
+      "source_path": "exercises/Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_Deadlift",
+      "source_path": "exercises/Clean_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_Pull",
+      "source_path": "exercises/Clean_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_Shrug",
+      "source_path": "exercises/Clean_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_and_Jerk",
+      "source_path": "exercises/Clean_and_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_and_Press",
+      "source_path": "exercises/Clean_and_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clean_from_Blocks",
+      "source_path": "exercises/Clean_from_Blocks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Clock_Push-Up",
+      "source_path": "exercises/Clock_Push-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_Barbell_Bench_Press",
+      "source_path": "exercises/Close-Grip_Barbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_Dumbbell_Press",
+      "source_path": "exercises/Close-Grip_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_EZ-Bar_Curl_with_Band",
+      "source_path": "exercises/Close-Grip_EZ-Bar_Curl_with_Band/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_EZ-Bar_Press",
+      "source_path": "exercises/Close-Grip_EZ-Bar_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_EZ_Bar_Curl",
+      "source_path": "exercises/Close-Grip_EZ_Bar_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_Front_Lat_Pulldown",
+      "source_path": "exercises/Close-Grip_Front_Lat_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+      "source_path": "exercises/Close-Grip_Push-Up_off_of_a_Dumbbell/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Close-Grip_Standing_Barbell_Curl",
+      "source_path": "exercises/Close-Grip_Standing_Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cocoons",
+      "source_path": "exercises/Cocoons/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Conan's_Wheel",
+      "source_path": "exercises/Conan's_Wheel/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Concentration_Curls",
+      "source_path": "exercises/Concentration_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cross-Body_Crunch",
+      "source_path": "exercises/Cross-Body_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cross_Body_Hammer_Curl",
+      "source_path": "exercises/Cross_Body_Hammer_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cross_Over_-_With_Bands",
+      "source_path": "exercises/Cross_Over_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Crossover_Reverse_Lunge",
+      "source_path": "exercises/Crossover_Reverse_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Crucifix",
+      "source_path": "exercises/Crucifix/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Crunch_-_Hands_Overhead",
+      "source_path": "exercises/Crunch_-_Hands_Overhead/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Crunch_-_Legs_On_Exercise_Ball",
+      "source_path": "exercises/Crunch_-_Legs_On_Exercise_Ball/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Crunches",
+      "source_path": "exercises/Crunches/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Cuban_Press",
+      "source_path": "exercises/Cuban_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dancer's_Stretch",
+      "source_path": "exercises/Dancer's_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dead_Bug",
+      "source_path": "exercises/Dead_Bug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Deadlift_with_Bands",
+      "source_path": "exercises/Deadlift_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Deadlift_with_Chains",
+      "source_path": "exercises/Deadlift_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Barbell_Bench_Press",
+      "source_path": "exercises/Decline_Barbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+      "source_path": "exercises/Decline_Close-Grip_Bench_To_Skull_Crusher/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Crunch",
+      "source_path": "exercises/Decline_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Dumbbell_Bench_Press",
+      "source_path": "exercises/Decline_Dumbbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Dumbbell_Flyes",
+      "source_path": "exercises/Decline_Dumbbell_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Decline_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_EZ_Bar_Triceps_Extension",
+      "source_path": "exercises/Decline_EZ_Bar_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Oblique_Crunch",
+      "source_path": "exercises/Decline_Oblique_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Push-Up",
+      "source_path": "exercises/Decline_Push-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Reverse_Crunch",
+      "source_path": "exercises/Decline_Reverse_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Decline_Smith_Press",
+      "source_path": "exercises/Decline_Smith_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Deficit_Deadlift",
+      "source_path": "exercises/Deficit_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Depth_Jump_Leap",
+      "source_path": "exercises/Depth_Jump_Leap/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dip_Machine",
+      "source_path": "exercises/Dip_Machine/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dips_-_Chest_Version",
+      "source_path": "exercises/Dips_-_Chest_Version/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dips_-_Triceps_Version",
+      "source_path": "exercises/Dips_-_Triceps_Version/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Donkey_Calf_Raises",
+      "source_path": "exercises/Donkey_Calf_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Kettlebell_Alternating_Hang_Clean",
+      "source_path": "exercises/Double_Kettlebell_Alternating_Hang_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Kettlebell_Jerk",
+      "source_path": "exercises/Double_Kettlebell_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Kettlebell_Push_Press",
+      "source_path": "exercises/Double_Kettlebell_Push_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Kettlebell_Snatch",
+      "source_path": "exercises/Double_Kettlebell_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Kettlebell_Windmill",
+      "source_path": "exercises/Double_Kettlebell_Windmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Double_Leg_Butt_Kick",
+      "source_path": "exercises/Double_Leg_Butt_Kick/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Downward_Facing_Balance",
+      "source_path": "exercises/Downward_Facing_Balance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Drag_Curl",
+      "source_path": "exercises/Drag_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Drop_Push",
+      "source_path": "exercises/Drop_Push/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Alternate_Bicep_Curl",
+      "source_path": "exercises/Dumbbell_Alternate_Bicep_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Bench_Press",
+      "source_path": "exercises/Dumbbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Bench_Press_with_Neutral_Grip",
+      "source_path": "exercises/Dumbbell_Bench_Press_with_Neutral_Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Bicep_Curl",
+      "source_path": "exercises/Dumbbell_Bicep_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Clean",
+      "source_path": "exercises/Dumbbell_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Floor_Press",
+      "source_path": "exercises/Dumbbell_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Flyes",
+      "source_path": "exercises/Dumbbell_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Incline_Row",
+      "source_path": "exercises/Dumbbell_Incline_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Incline_Shoulder_Raise",
+      "source_path": "exercises/Dumbbell_Incline_Shoulder_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Lunges",
+      "source_path": "exercises/Dumbbell_Lunges/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+      "source_path": "exercises/Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Lying_Pronation",
+      "source_path": "exercises/Dumbbell_Lying_Pronation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Lying_Rear_Lateral_Raise",
+      "source_path": "exercises/Dumbbell_Lying_Rear_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Lying_Supination",
+      "source_path": "exercises/Dumbbell_Lying_Supination/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_One-Arm_Shoulder_Press",
+      "source_path": "exercises/Dumbbell_One-Arm_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_One-Arm_Triceps_Extension",
+      "source_path": "exercises/Dumbbell_One-Arm_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_One-Arm_Upright_Row",
+      "source_path": "exercises/Dumbbell_One-Arm_Upright_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Prone_Incline_Curl",
+      "source_path": "exercises/Dumbbell_Prone_Incline_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Raise",
+      "source_path": "exercises/Dumbbell_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Rear_Lunge",
+      "source_path": "exercises/Dumbbell_Rear_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Scaption",
+      "source_path": "exercises/Dumbbell_Scaption/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Seated_Box_Jump",
+      "source_path": "exercises/Dumbbell_Seated_Box_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Seated_One-Leg_Calf_Raise",
+      "source_path": "exercises/Dumbbell_Seated_One-Leg_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Shoulder_Press",
+      "source_path": "exercises/Dumbbell_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Shrug",
+      "source_path": "exercises/Dumbbell_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Side_Bend",
+      "source_path": "exercises/Dumbbell_Side_Bend/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Squat",
+      "source_path": "exercises/Dumbbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Squat_To_A_Bench",
+      "source_path": "exercises/Dumbbell_Squat_To_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Step_Ups",
+      "source_path": "exercises/Dumbbell_Step_Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+      "source_path": "exercises/Dumbbell_Tricep_Extension_-Pronated_Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dynamic_Back_Stretch",
+      "source_path": "exercises/Dynamic_Back_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Dynamic_Chest_Stretch",
+      "source_path": "exercises/Dynamic_Chest_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "EZ-Bar_Curl",
+      "source_path": "exercises/EZ-Bar_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "EZ-Bar_Skullcrusher",
+      "source_path": "exercises/EZ-Bar_Skullcrusher/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elbow_Circles",
+      "source_path": "exercises/Elbow_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elbow_to_Knee",
+      "source_path": "exercises/Elbow_to_Knee/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elbows_Back",
+      "source_path": "exercises/Elbows_Back/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elevated_Back_Lunge",
+      "source_path": "exercises/Elevated_Back_Lunge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elevated_Cable_Rows",
+      "source_path": "exercises/Elevated_Cable_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Elliptical_Trainer",
+      "source_path": "exercises/Elliptical_Trainer/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Exercise_Ball_Crunch",
+      "source_path": "exercises/Exercise_Ball_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Exercise_Ball_Pull-In",
+      "source_path": "exercises/Exercise_Ball_Pull-In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+      "source_path": "exercises/Extended_Range_One-Arm_Kettlebell_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "External_Rotation",
+      "source_path": "exercises/External_Rotation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "External_Rotation_with_Band",
+      "source_path": "exercises/External_Rotation_with_Band/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "External_Rotation_with_Cable",
+      "source_path": "exercises/External_Rotation_with_Cable/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Face_Pull",
+      "source_path": "exercises/Face_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Farmer's_Walk",
+      "source_path": "exercises/Farmer's_Walk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Fast_Skipping",
+      "source_path": "exercises/Fast_Skipping/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Finger_Curls",
+      "source_path": "exercises/Finger_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Flat_Bench_Cable_Flyes",
+      "source_path": "exercises/Flat_Bench_Cable_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Flat_Bench_Leg_Pull-In",
+      "source_path": "exercises/Flat_Bench_Leg_Pull-In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Flat_Bench_Lying_Leg_Raise",
+      "source_path": "exercises/Flat_Bench_Lying_Leg_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Flexor_Incline_Dumbbell_Curls",
+      "source_path": "exercises/Flexor_Incline_Dumbbell_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Floor_Glute-Ham_Raise",
+      "source_path": "exercises/Floor_Glute-Ham_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Floor_Press",
+      "source_path": "exercises/Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Floor_Press_with_Chains",
+      "source_path": "exercises/Floor_Press_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Flutter_Kicks",
+      "source_path": "exercises/Flutter_Kicks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Foot-SMR",
+      "source_path": "exercises/Foot-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Forward_Drag_with_Press",
+      "source_path": "exercises/Forward_Drag_with_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Frankenstein_Squat",
+      "source_path": "exercises/Frankenstein_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Freehand_Jump_Squat",
+      "source_path": "exercises/Freehand_Jump_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Frog_Hops",
+      "source_path": "exercises/Frog_Hops/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Frog_Sit-Ups",
+      "source_path": "exercises/Frog_Sit-Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Barbell_Squat",
+      "source_path": "exercises/Front_Barbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Barbell_Squat_To_A_Bench",
+      "source_path": "exercises/Front_Barbell_Squat_To_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Box_Jump",
+      "source_path": "exercises/Front_Box_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Cable_Raise",
+      "source_path": "exercises/Front_Cable_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Cone_Hops_(or_hurdle_hops)",
+      "source_path": "exercises/Front_Cone_Hops_(or_hurdle_hops)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Dumbbell_Raise",
+      "source_path": "exercises/Front_Dumbbell_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Incline_Dumbbell_Raise",
+      "source_path": "exercises/Front_Incline_Dumbbell_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Leg_Raises",
+      "source_path": "exercises/Front_Leg_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Plate_Raise",
+      "source_path": "exercises/Front_Plate_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Raise_And_Pullover",
+      "source_path": "exercises/Front_Raise_And_Pullover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Squat_(Clean_Grip)",
+      "source_path": "exercises/Front_Squat_(Clean_Grip)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Squats_With_Two_Kettlebells",
+      "source_path": "exercises/Front_Squats_With_Two_Kettlebells/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Front_Two-Dumbbell_Raise",
+      "source_path": "exercises/Front_Two-Dumbbell_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Full_Range-Of-Motion_Lat_Pulldown",
+      "source_path": "exercises/Full_Range-Of-Motion_Lat_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Gironda_Sternum_Chins",
+      "source_path": "exercises/Gironda_Sternum_Chins/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Glute_Ham_Raise",
+      "source_path": "exercises/Glute_Ham_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Glute_Kickback",
+      "source_path": "exercises/Glute_Kickback/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Goblet_Squat",
+      "source_path": "exercises/Goblet_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Good_Morning",
+      "source_path": "exercises/Good_Morning/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Good_Morning_off_Pins",
+      "source_path": "exercises/Good_Morning_off_Pins/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Gorilla_Chin_Crunch",
+      "source_path": "exercises/Gorilla_Chin_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Groin_and_Back_Stretch",
+      "source_path": "exercises/Groin_and_Back_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Groiners",
+      "source_path": "exercises/Groiners/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hack_Squat",
+      "source_path": "exercises/Hack_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hammer_Curls",
+      "source_path": "exercises/Hammer_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hammer_Grip_Incline_DB_Bench_Press",
+      "source_path": "exercises/Hammer_Grip_Incline_DB_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hamstring-SMR",
+      "source_path": "exercises/Hamstring-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hamstring_Stretch",
+      "source_path": "exercises/Hamstring_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Handstand_Push-Ups",
+      "source_path": "exercises/Handstand_Push-Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hang_Clean",
+      "source_path": "exercises/Hang_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hang_Clean_-_Below_the_Knees",
+      "source_path": "exercises/Hang_Clean_-_Below_the_Knees/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hang_Snatch",
+      "source_path": "exercises/Hang_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hang_Snatch_-_Below_Knees",
+      "source_path": "exercises/Hang_Snatch_-_Below_Knees/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hanging_Bar_Good_Morning",
+      "source_path": "exercises/Hanging_Bar_Good_Morning/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hanging_Leg_Raise",
+      "source_path": "exercises/Hanging_Leg_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hanging_Pike",
+      "source_path": "exercises/Hanging_Pike/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Heaving_Snatch_Balance",
+      "source_path": "exercises/Heaving_Snatch_Balance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Heavy_Bag_Thrust",
+      "source_path": "exercises/Heavy_Bag_Thrust/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "High_Cable_Curls",
+      "source_path": "exercises/High_Cable_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hip_Circles_(prone)",
+      "source_path": "exercises/Hip_Circles_(prone)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hip_Extension_with_Bands",
+      "source_path": "exercises/Hip_Extension_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hip_Flexion_with_Band",
+      "source_path": "exercises/Hip_Flexion_with_Band/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hip_Lift_with_Band",
+      "source_path": "exercises/Hip_Lift_with_Band/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hug_A_Ball",
+      "source_path": "exercises/Hug_A_Ball/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hug_Knees_To_Chest",
+      "source_path": "exercises/Hug_Knees_To_Chest/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hurdle_Hops",
+      "source_path": "exercises/Hurdle_Hops/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hyperextensions_(Back_Extensions)",
+      "source_path": "exercises/Hyperextensions_(Back_Extensions)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Hyperextensions_With_No_Hyperextension_Bench",
+      "source_path": "exercises/Hyperextensions_With_No_Hyperextension_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "IT_Band_and_Glute_Stretch",
+      "source_path": "exercises/IT_Band_and_Glute_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Iliotibial_Tract-SMR",
+      "source_path": "exercises/Iliotibial_Tract-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Inchworm",
+      "source_path": "exercises/Inchworm/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Barbell_Triceps_Extension",
+      "source_path": "exercises/Incline_Barbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Bench_Pull",
+      "source_path": "exercises/Incline_Bench_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Cable_Chest_Press",
+      "source_path": "exercises/Incline_Cable_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Cable_Flye",
+      "source_path": "exercises/Incline_Cable_Flye/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Dumbbell_Bench_With_Palms_Facing_In",
+      "source_path": "exercises/Incline_Dumbbell_Bench_With_Palms_Facing_In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Dumbbell_Curl",
+      "source_path": "exercises/Incline_Dumbbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Dumbbell_Flyes",
+      "source_path": "exercises/Incline_Dumbbell_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+      "source_path": "exercises/Incline_Dumbbell_Flyes_-_With_A_Twist/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Dumbbell_Press",
+      "source_path": "exercises/Incline_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Hammer_Curls",
+      "source_path": "exercises/Incline_Hammer_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Inner_Biceps_Curl",
+      "source_path": "exercises/Incline_Inner_Biceps_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up",
+      "source_path": "exercises/Incline_Push-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up_Close-Grip",
+      "source_path": "exercises/Incline_Push-Up_Close-Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up_Depth_Jump",
+      "source_path": "exercises/Incline_Push-Up_Depth_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up_Medium",
+      "source_path": "exercises/Incline_Push-Up_Medium/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up_Reverse_Grip",
+      "source_path": "exercises/Incline_Push-Up_Reverse_Grip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Incline_Push-Up_Wide",
+      "source_path": "exercises/Incline_Push-Up_Wide/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Intermediate_Groin_Stretch",
+      "source_path": "exercises/Intermediate_Groin_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Intermediate_Hip_Flexor_and_Quad_Stretch",
+      "source_path": "exercises/Intermediate_Hip_Flexor_and_Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Internal_Rotation_with_Band",
+      "source_path": "exercises/Internal_Rotation_with_Band/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Inverted_Row",
+      "source_path": "exercises/Inverted_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Inverted_Row_with_Straps",
+      "source_path": "exercises/Inverted_Row_with_Straps/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Iron_Cross",
+      "source_path": "exercises/Iron_Cross/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Iron_Crosses_(stretch)",
+      "source_path": "exercises/Iron_Crosses_(stretch)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Isometric_Chest_Squeezes",
+      "source_path": "exercises/Isometric_Chest_Squeezes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Isometric_Neck_Exercise_-_Front_And_Back",
+      "source_path": "exercises/Isometric_Neck_Exercise_-_Front_And_Back/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Isometric_Neck_Exercise_-_Sides",
+      "source_path": "exercises/Isometric_Neck_Exercise_-_Sides/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Isometric_Wipers",
+      "source_path": "exercises/Isometric_Wipers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "JM_Press",
+      "source_path": "exercises/JM_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Jackknife_Sit-Up",
+      "source_path": "exercises/Jackknife_Sit-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Janda_Sit-Up",
+      "source_path": "exercises/Janda_Sit-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Jefferson_Squats",
+      "source_path": "exercises/Jefferson_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Jerk_Balance",
+      "source_path": "exercises/Jerk_Balance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Jerk_Dip_Squat",
+      "source_path": "exercises/Jerk_Dip_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Jogging,_Treadmill",
+      "source_path": "exercises/Jogging,_Treadmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Keg_Load",
+      "source_path": "exercises/Keg_Load/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Arnold_Press",
+      "source_path": "exercises/Kettlebell_Arnold_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Dead_Clean",
+      "source_path": "exercises/Kettlebell_Dead_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Figure_8",
+      "source_path": "exercises/Kettlebell_Figure_8/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Hang_Clean",
+      "source_path": "exercises/Kettlebell_Hang_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_One-Legged_Deadlift",
+      "source_path": "exercises/Kettlebell_One-Legged_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Pass_Between_The_Legs",
+      "source_path": "exercises/Kettlebell_Pass_Between_The_Legs/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Pirate_Ships",
+      "source_path": "exercises/Kettlebell_Pirate_Ships/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Pistol_Squat",
+      "source_path": "exercises/Kettlebell_Pistol_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Seated_Press",
+      "source_path": "exercises/Kettlebell_Seated_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Seesaw_Press",
+      "source_path": "exercises/Kettlebell_Seesaw_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Sumo_High_Pull",
+      "source_path": "exercises/Kettlebell_Sumo_High_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Thruster",
+      "source_path": "exercises/Kettlebell_Thruster/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Turkish_Get-Up_(Lunge_style)",
+      "source_path": "exercises/Kettlebell_Turkish_Get-Up_(Lunge_style)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Turkish_Get-Up_(Squat_style)",
+      "source_path": "exercises/Kettlebell_Turkish_Get-Up_(Squat_style)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kettlebell_Windmill",
+      "source_path": "exercises/Kettlebell_Windmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kipping_Muscle_Up",
+      "source_path": "exercises/Kipping_Muscle_Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Knee_Across_The_Body",
+      "source_path": "exercises/Knee_Across_The_Body/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Knee_Circles",
+      "source_path": "exercises/Knee_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Knee_Hip_Raise_On_Parallel_Bars",
+      "source_path": "exercises/Knee_Hip_Raise_On_Parallel_Bars/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Knee_Tuck_Jump",
+      "source_path": "exercises/Knee_Tuck_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Arm_Drill",
+      "source_path": "exercises/Kneeling_Arm_Drill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+      "source_path": "exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Cable_Triceps_Extension",
+      "source_path": "exercises/Kneeling_Cable_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Forearm_Stretch",
+      "source_path": "exercises/Kneeling_Forearm_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_High_Pulley_Row",
+      "source_path": "exercises/Kneeling_High_Pulley_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Hip_Flexor",
+      "source_path": "exercises/Kneeling_Hip_Flexor/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Jump_Squat",
+      "source_path": "exercises/Kneeling_Jump_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Single-Arm_High_Pulley_Row",
+      "source_path": "exercises/Kneeling_Single-Arm_High_Pulley_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Kneeling_Squat",
+      "source_path": "exercises/Kneeling_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Landmine_180's",
+      "source_path": "exercises/Landmine_180's/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Landmine_Linear_Jammer",
+      "source_path": "exercises/Landmine_Linear_Jammer/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lateral_Bound",
+      "source_path": "exercises/Lateral_Bound/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lateral_Box_Jump",
+      "source_path": "exercises/Lateral_Box_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lateral_Cone_Hops",
+      "source_path": "exercises/Lateral_Cone_Hops/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lateral_Raise_-_With_Bands",
+      "source_path": "exercises/Lateral_Raise_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Latissimus_Dorsi-SMR",
+      "source_path": "exercises/Latissimus_Dorsi-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg-Over_Floor_Press",
+      "source_path": "exercises/Leg-Over_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg-Up_Hamstring_Stretch",
+      "source_path": "exercises/Leg-Up_Hamstring_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg_Extensions",
+      "source_path": "exercises/Leg_Extensions/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg_Lift",
+      "source_path": "exercises/Leg_Lift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg_Press",
+      "source_path": "exercises/Leg_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leg_Pull-In",
+      "source_path": "exercises/Leg_Pull-In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Chest_Press",
+      "source_path": "exercises/Leverage_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Deadlift",
+      "source_path": "exercises/Leverage_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Decline_Chest_Press",
+      "source_path": "exercises/Leverage_Decline_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_High_Row",
+      "source_path": "exercises/Leverage_High_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Incline_Chest_Press",
+      "source_path": "exercises/Leverage_Incline_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Iso_Row",
+      "source_path": "exercises/Leverage_Iso_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Shoulder_Press",
+      "source_path": "exercises/Leverage_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Leverage_Shrug",
+      "source_path": "exercises/Leverage_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Linear_3-Part_Start_Technique",
+      "source_path": "exercises/Linear_3-Part_Start_Technique/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Linear_Acceleration_Wall_Drill",
+      "source_path": "exercises/Linear_Acceleration_Wall_Drill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Linear_Depth_Jump",
+      "source_path": "exercises/Linear_Depth_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Log_Lift",
+      "source_path": "exercises/Log_Lift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "London_Bridges",
+      "source_path": "exercises/London_Bridges/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Looking_At_Ceiling",
+      "source_path": "exercises/Looking_At_Ceiling/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Low_Cable_Crossover",
+      "source_path": "exercises/Low_Cable_Crossover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Low_Cable_Triceps_Extension",
+      "source_path": "exercises/Low_Cable_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Low_Pulley_Row_To_Neck",
+      "source_path": "exercises/Low_Pulley_Row_To_Neck/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lower_Back-SMR",
+      "source_path": "exercises/Lower_Back-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lower_Back_Curl",
+      "source_path": "exercises/Lower_Back_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lunge_Pass_Through",
+      "source_path": "exercises/Lunge_Pass_Through/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lunge_Sprint",
+      "source_path": "exercises/Lunge_Sprint/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Bent_Leg_Groin",
+      "source_path": "exercises/Lying_Bent_Leg_Groin/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Cable_Curl",
+      "source_path": "exercises/Lying_Cable_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Cambered_Barbell_Row",
+      "source_path": "exercises/Lying_Cambered_Barbell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+      "source_path": "exercises/Lying_Close-Grip_Bar_Curl_On_High_Pulley/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+      "source_path": "exercises/Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin",
+      "source_path": "exercises/Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Crossover",
+      "source_path": "exercises/Lying_Crossover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Dumbbell_Tricep_Extension",
+      "source_path": "exercises/Lying_Dumbbell_Tricep_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Face_Down_Plate_Neck_Resistance",
+      "source_path": "exercises/Lying_Face_Down_Plate_Neck_Resistance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Face_Up_Plate_Neck_Resistance",
+      "source_path": "exercises/Lying_Face_Up_Plate_Neck_Resistance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Glute",
+      "source_path": "exercises/Lying_Glute/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Hamstring",
+      "source_path": "exercises/Lying_Hamstring/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_High_Bench_Barbell_Curl",
+      "source_path": "exercises/Lying_High_Bench_Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Leg_Curls",
+      "source_path": "exercises/Lying_Leg_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Machine_Squat",
+      "source_path": "exercises/Lying_Machine_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_One-Arm_Lateral_Raise",
+      "source_path": "exercises/Lying_One-Arm_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Prone_Quadriceps",
+      "source_path": "exercises/Lying_Prone_Quadriceps/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Rear_Delt_Raise",
+      "source_path": "exercises/Lying_Rear_Delt_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Supine_Dumbbell_Curl",
+      "source_path": "exercises/Lying_Supine_Dumbbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_T-Bar_Row",
+      "source_path": "exercises/Lying_T-Bar_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Lying_Triceps_Press",
+      "source_path": "exercises/Lying_Triceps_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Machine_Bench_Press",
+      "source_path": "exercises/Machine_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Machine_Bicep_Curl",
+      "source_path": "exercises/Machine_Bicep_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Machine_Preacher_Curls",
+      "source_path": "exercises/Machine_Preacher_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Machine_Shoulder_(Military)_Press",
+      "source_path": "exercises/Machine_Shoulder_(Military)_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Machine_Triceps_Extension",
+      "source_path": "exercises/Machine_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Medicine_Ball_Chest_Pass",
+      "source_path": "exercises/Medicine_Ball_Chest_Pass/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Medicine_Ball_Full_Twist",
+      "source_path": "exercises/Medicine_Ball_Full_Twist/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Medicine_Ball_Scoop_Throw",
+      "source_path": "exercises/Medicine_Ball_Scoop_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Middle_Back_Shrug",
+      "source_path": "exercises/Middle_Back_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Middle_Back_Stretch",
+      "source_path": "exercises/Middle_Back_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Mixed_Grip_Chin",
+      "source_path": "exercises/Mixed_Grip_Chin/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Monster_Walk",
+      "source_path": "exercises/Monster_Walk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Mountain_Climbers",
+      "source_path": "exercises/Mountain_Climbers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Moving_Claw_Series",
+      "source_path": "exercises/Moving_Claw_Series/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Muscle_Snatch",
+      "source_path": "exercises/Muscle_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Muscle_Up",
+      "source_path": "exercises/Muscle_Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Narrow_Stance_Hack_Squats",
+      "source_path": "exercises/Narrow_Stance_Hack_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Narrow_Stance_Leg_Press",
+      "source_path": "exercises/Narrow_Stance_Leg_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Narrow_Stance_Squats",
+      "source_path": "exercises/Narrow_Stance_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Natural_Glute_Ham_Raise",
+      "source_path": "exercises/Natural_Glute_Ham_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Neck-SMR",
+      "source_path": "exercises/Neck-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Neck_Press",
+      "source_path": "exercises/Neck_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Oblique_Crunches",
+      "source_path": "exercises/Oblique_Crunches/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Oblique_Crunches_-_On_The_Floor",
+      "source_path": "exercises/Oblique_Crunches_-_On_The_Floor/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Olympic_Squat",
+      "source_path": "exercises/Olympic_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "On-Your-Back_Quad_Stretch",
+      "source_path": "exercises/On-Your-Back_Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "On_Your_Side_Quad_Stretch",
+      "source_path": "exercises/On_Your_Side_Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Dumbbell_Row",
+      "source_path": "exercises/One-Arm_Dumbbell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Flat_Bench_Dumbbell_Flye",
+      "source_path": "exercises/One-Arm_Flat_Bench_Dumbbell_Flye/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_High-Pulley_Cable_Side_Bends",
+      "source_path": "exercises/One-Arm_High-Pulley_Cable_Side_Bends/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Incline_Lateral_Raise",
+      "source_path": "exercises/One-Arm_Incline_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Clean",
+      "source_path": "exercises/One-Arm_Kettlebell_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Clean_and_Jerk",
+      "source_path": "exercises/One-Arm_Kettlebell_Clean_and_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Floor_Press",
+      "source_path": "exercises/One-Arm_Kettlebell_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Jerk",
+      "source_path": "exercises/One-Arm_Kettlebell_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Military_Press_To_The_Side",
+      "source_path": "exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Para_Press",
+      "source_path": "exercises/One-Arm_Kettlebell_Para_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Push_Press",
+      "source_path": "exercises/One-Arm_Kettlebell_Push_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Row",
+      "source_path": "exercises/One-Arm_Kettlebell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Snatch",
+      "source_path": "exercises/One-Arm_Kettlebell_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Split_Jerk",
+      "source_path": "exercises/One-Arm_Kettlebell_Split_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Split_Snatch",
+      "source_path": "exercises/One-Arm_Kettlebell_Split_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Kettlebell_Swings",
+      "source_path": "exercises/One-Arm_Kettlebell_Swings/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Long_Bar_Row",
+      "source_path": "exercises/One-Arm_Long_Bar_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Medicine_Ball_Slam",
+      "source_path": "exercises/One-Arm_Medicine_Ball_Slam/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Open_Palm_Kettlebell_Clean",
+      "source_path": "exercises/One-Arm_Open_Palm_Kettlebell_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Overhead_Kettlebell_Squats",
+      "source_path": "exercises/One-Arm_Overhead_Kettlebell_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Side_Deadlift",
+      "source_path": "exercises/One-Arm_Side_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Arm_Side_Laterals",
+      "source_path": "exercises/One-Arm_Side_Laterals/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One-Legged_Cable_Kickback",
+      "source_path": "exercises/One-Legged_Cable_Kickback/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Against_Wall",
+      "source_path": "exercises/One_Arm_Against_Wall/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Chin-Up",
+      "source_path": "exercises/One_Arm_Chin-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Dumbbell_Bench_Press",
+      "source_path": "exercises/One_Arm_Dumbbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Dumbbell_Preacher_Curl",
+      "source_path": "exercises/One_Arm_Dumbbell_Preacher_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Floor_Press",
+      "source_path": "exercises/One_Arm_Floor_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Lat_Pulldown",
+      "source_path": "exercises/One_Arm_Lat_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/One_Arm_Pronated_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/One_Arm_Supinated_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Half_Locust",
+      "source_path": "exercises/One_Half_Locust/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Handed_Hang",
+      "source_path": "exercises/One_Handed_Hang/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Knee_To_Chest",
+      "source_path": "exercises/One_Knee_To_Chest/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "One_Leg_Barbell_Squat",
+      "source_path": "exercises/One_Leg_Barbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Open_Palm_Kettlebell_Clean",
+      "source_path": "exercises/Open_Palm_Kettlebell_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Otis-Up",
+      "source_path": "exercises/Otis-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Cable_Curl",
+      "source_path": "exercises/Overhead_Cable_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Lat",
+      "source_path": "exercises/Overhead_Lat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Slam",
+      "source_path": "exercises/Overhead_Slam/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Squat",
+      "source_path": "exercises/Overhead_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Stretch",
+      "source_path": "exercises/Overhead_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Overhead_Triceps",
+      "source_path": "exercises/Overhead_Triceps/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pallof_Press",
+      "source_path": "exercises/Pallof_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pallof_Press_With_Rotation",
+      "source_path": "exercises/Pallof_Press_With_Rotation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+      "source_path": "exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Palms-Down_Wrist_Curl_Over_A_Bench",
+      "source_path": "exercises/Palms-Down_Wrist_Curl_Over_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench",
+      "source_path": "exercises/Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench",
+      "source_path": "exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Parallel_Bar_Dip",
+      "source_path": "exercises/Parallel_Bar_Dip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pelvic_Tilt_Into_Bridge",
+      "source_path": "exercises/Pelvic_Tilt_Into_Bridge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Peroneals-SMR",
+      "source_path": "exercises/Peroneals-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Peroneals_Stretch",
+      "source_path": "exercises/Peroneals_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Physioball_Hip_Bridge",
+      "source_path": "exercises/Physioball_Hip_Bridge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pin_Presses",
+      "source_path": "exercises/Pin_Presses/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Piriformis-SMR",
+      "source_path": "exercises/Piriformis-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plank",
+      "source_path": "exercises/Plank/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plate_Pinch",
+      "source_path": "exercises/Plate_Pinch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plate_Twist",
+      "source_path": "exercises/Plate_Twist/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Platform_Hamstring_Slides",
+      "source_path": "exercises/Platform_Hamstring_Slides/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plie_Dumbbell_Squat",
+      "source_path": "exercises/Plie_Dumbbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plyo_Kettlebell_Pushups",
+      "source_path": "exercises/Plyo_Kettlebell_Pushups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Plyo_Push-up",
+      "source_path": "exercises/Plyo_Push-up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Posterior_Tibialis_Stretch",
+      "source_path": "exercises/Posterior_Tibialis_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Clean",
+      "source_path": "exercises/Power_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Clean_from_Blocks",
+      "source_path": "exercises/Power_Clean_from_Blocks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Jerk",
+      "source_path": "exercises/Power_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Partials",
+      "source_path": "exercises/Power_Partials/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Snatch",
+      "source_path": "exercises/Power_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Snatch_from_Blocks",
+      "source_path": "exercises/Power_Snatch_from_Blocks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Power_Stairs",
+      "source_path": "exercises/Power_Stairs/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Preacher_Curl",
+      "source_path": "exercises/Preacher_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Preacher_Hammer_Dumbbell_Curl",
+      "source_path": "exercises/Preacher_Hammer_Dumbbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Press_Sit-Up",
+      "source_path": "exercises/Press_Sit-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Prone_Manual_Hamstring",
+      "source_path": "exercises/Prone_Manual_Hamstring/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Prowler_Sprint",
+      "source_path": "exercises/Prowler_Sprint/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pull_Through",
+      "source_path": "exercises/Pull_Through/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pullups",
+      "source_path": "exercises/Pullups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push-Up_Wide",
+      "source_path": "exercises/Push-Up_Wide/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push-Ups_-_Close_Triceps_Position",
+      "source_path": "exercises/Push-Ups_-_Close_Triceps_Position/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push-Ups_With_Feet_Elevated",
+      "source_path": "exercises/Push-Ups_With_Feet_Elevated/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push-Ups_With_Feet_On_An_Exercise_Ball",
+      "source_path": "exercises/Push-Ups_With_Feet_On_An_Exercise_Ball/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push_Press",
+      "source_path": "exercises/Push_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push_Press_-_Behind_the_Neck",
+      "source_path": "exercises/Push_Press_-_Behind_the_Neck/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Push_Up_to_Side_Plank",
+      "source_path": "exercises/Push_Up_to_Side_Plank/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pushups",
+      "source_path": "exercises/Pushups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pushups_(Close_and_Wide_Hand_Positions)",
+      "source_path": "exercises/Pushups_(Close_and_Wide_Hand_Positions)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Pyramid",
+      "source_path": "exercises/Pyramid/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Quad_Stretch",
+      "source_path": "exercises/Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Quadriceps-SMR",
+      "source_path": "exercises/Quadriceps-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Quick_Leap",
+      "source_path": "exercises/Quick_Leap/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rack_Delivery",
+      "source_path": "exercises/Rack_Delivery/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rack_Pull_with_Bands",
+      "source_path": "exercises/Rack_Pull_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rack_Pulls",
+      "source_path": "exercises/Rack_Pulls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rear_Leg_Raises",
+      "source_path": "exercises/Rear_Leg_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Recumbent_Bike",
+      "source_path": "exercises/Recumbent_Bike/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Return_Push_from_Stance",
+      "source_path": "exercises/Return_Push_from_Stance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Band_Bench_Press",
+      "source_path": "exercises/Reverse_Band_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Band_Box_Squat",
+      "source_path": "exercises/Reverse_Band_Box_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Band_Deadlift",
+      "source_path": "exercises/Reverse_Band_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Band_Power_Squat",
+      "source_path": "exercises/Reverse_Band_Power_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Band_Sumo_Deadlift",
+      "source_path": "exercises/Reverse_Band_Sumo_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Barbell_Curl",
+      "source_path": "exercises/Reverse_Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Barbell_Preacher_Curls",
+      "source_path": "exercises/Reverse_Barbell_Preacher_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Cable_Curl",
+      "source_path": "exercises/Reverse_Cable_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Crunch",
+      "source_path": "exercises/Reverse_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Flyes",
+      "source_path": "exercises/Reverse_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Flyes_With_External_Rotation",
+      "source_path": "exercises/Reverse_Flyes_With_External_Rotation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Grip_Bent-Over_Rows",
+      "source_path": "exercises/Reverse_Grip_Bent-Over_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Grip_Triceps_Pushdown",
+      "source_path": "exercises/Reverse_Grip_Triceps_Pushdown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Hyperextension",
+      "source_path": "exercises/Reverse_Hyperextension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Machine_Flyes",
+      "source_path": "exercises/Reverse_Machine_Flyes/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Plate_Curls",
+      "source_path": "exercises/Reverse_Plate_Curls/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Reverse_Triceps_Bench_Press",
+      "source_path": "exercises/Reverse_Triceps_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rhomboids-SMR",
+      "source_path": "exercises/Rhomboids-SMR/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rickshaw_Carry",
+      "source_path": "exercises/Rickshaw_Carry/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rickshaw_Deadlift",
+      "source_path": "exercises/Rickshaw_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Ring_Dips",
+      "source_path": "exercises/Ring_Dips/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rocket_Jump",
+      "source_path": "exercises/Rocket_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rocking_Standing_Calf_Raise",
+      "source_path": "exercises/Rocking_Standing_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rocky_Pull-Ups_Pulldowns",
+      "source_path": "exercises/Rocky_Pull-Ups_Pulldowns/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Romanian_Deadlift",
+      "source_path": "exercises/Romanian_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Romanian_Deadlift_from_Deficit",
+      "source_path": "exercises/Romanian_Deadlift_from_Deficit/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rope_Climb",
+      "source_path": "exercises/Rope_Climb/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rope_Crunch",
+      "source_path": "exercises/Rope_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rope_Jumping",
+      "source_path": "exercises/Rope_Jumping/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rope_Straight-Arm_Pulldown",
+      "source_path": "exercises/Rope_Straight-Arm_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Round_The_World_Shoulder_Stretch",
+      "source_path": "exercises/Round_The_World_Shoulder_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Rowing,_Stationary",
+      "source_path": "exercises/Rowing,_Stationary/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Runner's_Stretch",
+      "source_path": "exercises/Runner's_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Running,_Treadmill",
+      "source_path": "exercises/Running,_Treadmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Russian_Twist",
+      "source_path": "exercises/Russian_Twist/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sandbag_Load",
+      "source_path": "exercises/Sandbag_Load/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Scapular_Pull-Up",
+      "source_path": "exercises/Scapular_Pull-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Scissor_Kick",
+      "source_path": "exercises/Scissor_Kick/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Scissors_Jump",
+      "source_path": "exercises/Scissors_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Band_Hamstring_Curl",
+      "source_path": "exercises/Seated_Band_Hamstring_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Barbell_Military_Press",
+      "source_path": "exercises/Seated_Barbell_Military_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Barbell_Twist",
+      "source_path": "exercises/Seated_Barbell_Twist/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Bent-Over_Rear_Delt_Raise",
+      "source_path": "exercises/Seated_Bent-Over_Rear_Delt_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Biceps",
+      "source_path": "exercises/Seated_Biceps/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Cable_Rows",
+      "source_path": "exercises/Seated_Cable_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Cable_Shoulder_Press",
+      "source_path": "exercises/Seated_Cable_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Calf_Raise",
+      "source_path": "exercises/Seated_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Calf_Stretch",
+      "source_path": "exercises/Seated_Calf_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Close-Grip_Concentration_Barbell_Curl",
+      "source_path": "exercises/Seated_Close-Grip_Concentration_Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Dumbbell_Curl",
+      "source_path": "exercises/Seated_Dumbbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Dumbbell_Inner_Biceps_Curl",
+      "source_path": "exercises/Seated_Dumbbell_Inner_Biceps_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+      "source_path": "exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+      "source_path": "exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Dumbbell_Press",
+      "source_path": "exercises/Seated_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Flat_Bench_Leg_Pull-In",
+      "source_path": "exercises/Seated_Flat_Bench_Leg_Pull-In/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Floor_Hamstring_Stretch",
+      "source_path": "exercises/Seated_Floor_Hamstring_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Front_Deltoid",
+      "source_path": "exercises/Seated_Front_Deltoid/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Glute",
+      "source_path": "exercises/Seated_Glute/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Good_Mornings",
+      "source_path": "exercises/Seated_Good_Mornings/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Hamstring",
+      "source_path": "exercises/Seated_Hamstring/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Hamstring_and_Calf_Stretch",
+      "source_path": "exercises/Seated_Hamstring_and_Calf_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Head_Harness_Neck_Resistance",
+      "source_path": "exercises/Seated_Head_Harness_Neck_Resistance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Leg_Curl",
+      "source_path": "exercises/Seated_Leg_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Leg_Tucks",
+      "source_path": "exercises/Seated_Leg_Tucks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+      "source_path": "exercises/Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+      "source_path": "exercises/Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_One-arm_Cable_Pulley_Rows",
+      "source_path": "exercises/Seated_One-arm_Cable_Pulley_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Overhead_Stretch",
+      "source_path": "exercises/Seated_Overhead_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Palm-Up_Barbell_Wrist_Curl",
+      "source_path": "exercises/Seated_Palm-Up_Barbell_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Palms-Down_Barbell_Wrist_Curl",
+      "source_path": "exercises/Seated_Palms-Down_Barbell_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Side_Lateral_Raise",
+      "source_path": "exercises/Seated_Side_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Triceps_Press",
+      "source_path": "exercises/Seated_Triceps_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+      "source_path": "exercises/Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "See-Saw_Press_(Alternating_Side_Press)",
+      "source_path": "exercises/See-Saw_Press_(Alternating_Side_Press)/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Shotgun_Row",
+      "source_path": "exercises/Shotgun_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Shoulder_Circles",
+      "source_path": "exercises/Shoulder_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Shoulder_Press_-_With_Bands",
+      "source_path": "exercises/Shoulder_Press_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Shoulder_Raise",
+      "source_path": "exercises/Shoulder_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Shoulder_Stretch",
+      "source_path": "exercises/Shoulder_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side-Lying_Floor_Stretch",
+      "source_path": "exercises/Side-Lying_Floor_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Bridge",
+      "source_path": "exercises/Side_Bridge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Hop-Sprint",
+      "source_path": "exercises/Side_Hop-Sprint/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Jackknife",
+      "source_path": "exercises/Side_Jackknife/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Lateral_Raise",
+      "source_path": "exercises/Side_Lateral_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Laterals_to_Front_Raise",
+      "source_path": "exercises/Side_Laterals_to_Front_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Leg_Raises",
+      "source_path": "exercises/Side_Leg_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Lying_Groin_Stretch",
+      "source_path": "exercises/Side_Lying_Groin_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Neck_Stretch",
+      "source_path": "exercises/Side_Neck_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Standing_Long_Jump",
+      "source_path": "exercises/Side_Standing_Long_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_To_Side_Chins",
+      "source_path": "exercises/Side_To_Side_Chins/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_Wrist_Pull",
+      "source_path": "exercises/Side_Wrist_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Side_to_Side_Box_Shuffle",
+      "source_path": "exercises/Side_to_Side_Box_Shuffle/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Arm_Cable_Crossover",
+      "source_path": "exercises/Single-Arm_Cable_Crossover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Arm_Linear_Jammer",
+      "source_path": "exercises/Single-Arm_Linear_Jammer/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Arm_Push-Up",
+      "source_path": "exercises/Single-Arm_Push-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Cone_Sprint_Drill",
+      "source_path": "exercises/Single-Cone_Sprint_Drill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Leg_High_Box_Squat",
+      "source_path": "exercises/Single-Leg_High_Box_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Leg_Hop_Progression",
+      "source_path": "exercises/Single-Leg_Hop_Progression/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Leg_Lateral_Hop",
+      "source_path": "exercises/Single-Leg_Lateral_Hop/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Leg_Leg_Extension",
+      "source_path": "exercises/Single-Leg_Leg_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single-Leg_Stride_Jump",
+      "source_path": "exercises/Single-Leg_Stride_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single_Dumbbell_Raise",
+      "source_path": "exercises/Single_Dumbbell_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single_Leg_Butt_Kick",
+      "source_path": "exercises/Single_Leg_Butt_Kick/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single_Leg_Glute_Bridge",
+      "source_path": "exercises/Single_Leg_Glute_Bridge/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Single_Leg_Push-off",
+      "source_path": "exercises/Single_Leg_Push-off/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sit-Up",
+      "source_path": "exercises/Sit-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sit_Squats",
+      "source_path": "exercises/Sit_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Skating",
+      "source_path": "exercises/Skating/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Drag_-_Harness",
+      "source_path": "exercises/Sled_Drag_-_Harness/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Overhead_Backward_Walk",
+      "source_path": "exercises/Sled_Overhead_Backward_Walk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Overhead_Triceps_Extension",
+      "source_path": "exercises/Sled_Overhead_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Push",
+      "source_path": "exercises/Sled_Push/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Reverse_Flye",
+      "source_path": "exercises/Sled_Reverse_Flye/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sled_Row",
+      "source_path": "exercises/Sled_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sledgehammer_Swings",
+      "source_path": "exercises/Sledgehammer_Swings/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Incline_Shoulder_Raise",
+      "source_path": "exercises/Smith_Incline_Shoulder_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Behind_the_Back_Shrug",
+      "source_path": "exercises/Smith_Machine_Behind_the_Back_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Bench_Press",
+      "source_path": "exercises/Smith_Machine_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Bent_Over_Row",
+      "source_path": "exercises/Smith_Machine_Bent_Over_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Calf_Raise",
+      "source_path": "exercises/Smith_Machine_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Close-Grip_Bench_Press",
+      "source_path": "exercises/Smith_Machine_Close-Grip_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Decline_Press",
+      "source_path": "exercises/Smith_Machine_Decline_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Hang_Power_Clean",
+      "source_path": "exercises/Smith_Machine_Hang_Power_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Hip_Raise",
+      "source_path": "exercises/Smith_Machine_Hip_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Incline_Bench_Press",
+      "source_path": "exercises/Smith_Machine_Incline_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Leg_Press",
+      "source_path": "exercises/Smith_Machine_Leg_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_One-Arm_Upright_Row",
+      "source_path": "exercises/Smith_Machine_One-Arm_Upright_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Overhead_Shoulder_Press",
+      "source_path": "exercises/Smith_Machine_Overhead_Shoulder_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Pistol_Squat",
+      "source_path": "exercises/Smith_Machine_Pistol_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Reverse_Calf_Raises",
+      "source_path": "exercises/Smith_Machine_Reverse_Calf_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Squat",
+      "source_path": "exercises/Smith_Machine_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Stiff-Legged_Deadlift",
+      "source_path": "exercises/Smith_Machine_Stiff-Legged_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Machine_Upright_Row",
+      "source_path": "exercises/Smith_Machine_Upright_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Smith_Single-Leg_Split_Squat",
+      "source_path": "exercises/Smith_Single-Leg_Split_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch",
+      "source_path": "exercises/Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch_Balance",
+      "source_path": "exercises/Snatch_Balance/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch_Deadlift",
+      "source_path": "exercises/Snatch_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch_Pull",
+      "source_path": "exercises/Snatch_Pull/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch_Shrug",
+      "source_path": "exercises/Snatch_Shrug/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Snatch_from_Blocks",
+      "source_path": "exercises/Snatch_from_Blocks/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Speed_Band_Overhead_Triceps",
+      "source_path": "exercises/Speed_Band_Overhead_Triceps/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Speed_Box_Squat",
+      "source_path": "exercises/Speed_Box_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Speed_Squats",
+      "source_path": "exercises/Speed_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Spell_Caster",
+      "source_path": "exercises/Spell_Caster/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Spider_Crawl",
+      "source_path": "exercises/Spider_Crawl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Spider_Curl",
+      "source_path": "exercises/Spider_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Spinal_Stretch",
+      "source_path": "exercises/Spinal_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Clean",
+      "source_path": "exercises/Split_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Jerk",
+      "source_path": "exercises/Split_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Jump",
+      "source_path": "exercises/Split_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Snatch",
+      "source_path": "exercises/Split_Snatch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Squat_with_Dumbbells",
+      "source_path": "exercises/Split_Squat_with_Dumbbells/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Split_Squats",
+      "source_path": "exercises/Split_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Squat_Jerk",
+      "source_path": "exercises/Squat_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Squat_with_Bands",
+      "source_path": "exercises/Squat_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Squat_with_Chains",
+      "source_path": "exercises/Squat_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Squat_with_Plate_Movers",
+      "source_path": "exercises/Squat_with_Plate_Movers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Squats_-_With_Bands",
+      "source_path": "exercises/Squats_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stairmaster",
+      "source_path": "exercises/Stairmaster/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Alternating_Dumbbell_Press",
+      "source_path": "exercises/Standing_Alternating_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Barbell_Calf_Raise",
+      "source_path": "exercises/Standing_Barbell_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Barbell_Press_Behind_Neck",
+      "source_path": "exercises/Standing_Barbell_Press_Behind_Neck/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Biceps_Cable_Curl",
+      "source_path": "exercises/Standing_Biceps_Cable_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Biceps_Stretch",
+      "source_path": "exercises/Standing_Biceps_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Bradford_Press",
+      "source_path": "exercises/Standing_Bradford_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Cable_Chest_Press",
+      "source_path": "exercises/Standing_Cable_Chest_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Cable_Lift",
+      "source_path": "exercises/Standing_Cable_Lift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Cable_Wood_Chop",
+      "source_path": "exercises/Standing_Cable_Wood_Chop/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Calf_Raises",
+      "source_path": "exercises/Standing_Calf_Raises/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Concentration_Curl",
+      "source_path": "exercises/Standing_Concentration_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Calf_Raise",
+      "source_path": "exercises/Standing_Dumbbell_Calf_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Press",
+      "source_path": "exercises/Standing_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Reverse_Curl",
+      "source_path": "exercises/Standing_Dumbbell_Reverse_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+      "source_path": "exercises/Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Standing_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Dumbbell_Upright_Row",
+      "source_path": "exercises/Standing_Dumbbell_Upright_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Elevated_Quad_Stretch",
+      "source_path": "exercises/Standing_Elevated_Quad_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Front_Barbell_Raise_Over_Head",
+      "source_path": "exercises/Standing_Front_Barbell_Raise_Over_Head/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Gastrocnemius_Calf_Stretch",
+      "source_path": "exercises/Standing_Gastrocnemius_Calf_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Hamstring_and_Calf_Stretch",
+      "source_path": "exercises/Standing_Hamstring_and_Calf_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Hip_Circles",
+      "source_path": "exercises/Standing_Hip_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Hip_Flexors",
+      "source_path": "exercises/Standing_Hip_Flexors/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Inner-Biceps_Curl",
+      "source_path": "exercises/Standing_Inner-Biceps_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Lateral_Stretch",
+      "source_path": "exercises/Standing_Lateral_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Leg_Curl",
+      "source_path": "exercises/Standing_Leg_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Long_Jump",
+      "source_path": "exercises/Standing_Long_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Low-Pulley_Deltoid_Raise",
+      "source_path": "exercises/Standing_Low-Pulley_Deltoid_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Low-Pulley_One-Arm_Triceps_Extension",
+      "source_path": "exercises/Standing_Low-Pulley_One-Arm_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Military_Press",
+      "source_path": "exercises/Standing_Military_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Olympic_Plate_Hand_Squeeze",
+      "source_path": "exercises/Standing_Olympic_Plate_Hand_Squeeze/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_One-Arm_Cable_Curl",
+      "source_path": "exercises/Standing_One-Arm_Cable_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench",
+      "source_path": "exercises/Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_One-Arm_Dumbbell_Triceps_Extension",
+      "source_path": "exercises/Standing_One-Arm_Dumbbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Overhead_Barbell_Triceps_Extension",
+      "source_path": "exercises/Standing_Overhead_Barbell_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Palm-In_One-Arm_Dumbbell_Press",
+      "source_path": "exercises/Standing_Palm-In_One-Arm_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Palms-In_Dumbbell_Press",
+      "source_path": "exercises/Standing_Palms-In_Dumbbell_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+      "source_path": "exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Pelvic_Tilt",
+      "source_path": "exercises/Standing_Pelvic_Tilt/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Rope_Crunch",
+      "source_path": "exercises/Standing_Rope_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Soleus_And_Achilles_Stretch",
+      "source_path": "exercises/Standing_Soleus_And_Achilles_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Toe_Touches",
+      "source_path": "exercises/Standing_Toe_Touches/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Towel_Triceps_Extension",
+      "source_path": "exercises/Standing_Towel_Triceps_Extension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Standing_Two-Arm_Overhead_Throw",
+      "source_path": "exercises/Standing_Two-Arm_Overhead_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Star_Jump",
+      "source_path": "exercises/Star_Jump/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Step-up_with_Knee_Raise",
+      "source_path": "exercises/Step-up_with_Knee_Raise/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Step_Mill",
+      "source_path": "exercises/Step_Mill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stiff-Legged_Barbell_Deadlift",
+      "source_path": "exercises/Stiff-Legged_Barbell_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stiff-Legged_Dumbbell_Deadlift",
+      "source_path": "exercises/Stiff-Legged_Dumbbell_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stiff_Leg_Barbell_Good_Morning",
+      "source_path": "exercises/Stiff_Leg_Barbell_Good_Morning/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stomach_Vacuum",
+      "source_path": "exercises/Stomach_Vacuum/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Straight-Arm_Dumbbell_Pullover",
+      "source_path": "exercises/Straight-Arm_Dumbbell_Pullover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Straight-Arm_Pulldown",
+      "source_path": "exercises/Straight-Arm_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Straight_Bar_Bench_Mid_Rows",
+      "source_path": "exercises/Straight_Bar_Bench_Mid_Rows/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Straight_Raises_on_Incline_Bench",
+      "source_path": "exercises/Straight_Raises_on_Incline_Bench/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Stride_Jump_Crossover",
+      "source_path": "exercises/Stride_Jump_Crossover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sumo_Deadlift",
+      "source_path": "exercises/Sumo_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sumo_Deadlift_with_Bands",
+      "source_path": "exercises/Sumo_Deadlift_with_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Sumo_Deadlift_with_Chains",
+      "source_path": "exercises/Sumo_Deadlift_with_Chains/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Superman",
+      "source_path": "exercises/Superman/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Supine_Chest_Throw",
+      "source_path": "exercises/Supine_Chest_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Supine_One-Arm_Overhead_Throw",
+      "source_path": "exercises/Supine_One-Arm_Overhead_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Supine_Two-Arm_Overhead_Throw",
+      "source_path": "exercises/Supine_Two-Arm_Overhead_Throw/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Suspended_Fallout",
+      "source_path": "exercises/Suspended_Fallout/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Suspended_Push-Up",
+      "source_path": "exercises/Suspended_Push-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Suspended_Reverse_Crunch",
+      "source_path": "exercises/Suspended_Reverse_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Suspended_Row",
+      "source_path": "exercises/Suspended_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Suspended_Split_Squat",
+      "source_path": "exercises/Suspended_Split_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Svend_Press",
+      "source_path": "exercises/Svend_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "T-Bar_Row_with_Handle",
+      "source_path": "exercises/T-Bar_Row_with_Handle/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Tate_Press",
+      "source_path": "exercises/Tate_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "The_Straddle",
+      "source_path": "exercises/The_Straddle/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Thigh_Abductor",
+      "source_path": "exercises/Thigh_Abductor/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Thigh_Adductor",
+      "source_path": "exercises/Thigh_Adductor/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Tire_Flip",
+      "source_path": "exercises/Tire_Flip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Toe_Touchers",
+      "source_path": "exercises/Toe_Touchers/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Torso_Rotation",
+      "source_path": "exercises/Torso_Rotation/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Trail_Running_Walking",
+      "source_path": "exercises/Trail_Running_Walking/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Trap_Bar_Deadlift",
+      "source_path": "exercises/Trap_Bar_Deadlift/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Tricep_Dumbbell_Kickback",
+      "source_path": "exercises/Tricep_Dumbbell_Kickback/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Tricep_Side_Stretch",
+      "source_path": "exercises/Tricep_Side_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Triceps_Overhead_Extension_with_Rope",
+      "source_path": "exercises/Triceps_Overhead_Extension_with_Rope/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Triceps_Pushdown",
+      "source_path": "exercises/Triceps_Pushdown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Triceps_Pushdown_-_Rope_Attachment",
+      "source_path": "exercises/Triceps_Pushdown_-_Rope_Attachment/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Triceps_Pushdown_-_V-Bar_Attachment",
+      "source_path": "exercises/Triceps_Pushdown_-_V-Bar_Attachment/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Triceps_Stretch",
+      "source_path": "exercises/Triceps_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Tuck_Crunch",
+      "source_path": "exercises/Tuck_Crunch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Two-Arm_Dumbbell_Preacher_Curl",
+      "source_path": "exercises/Two-Arm_Dumbbell_Preacher_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Two-Arm_Kettlebell_Clean",
+      "source_path": "exercises/Two-Arm_Kettlebell_Clean/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Two-Arm_Kettlebell_Jerk",
+      "source_path": "exercises/Two-Arm_Kettlebell_Jerk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Two-Arm_Kettlebell_Military_Press",
+      "source_path": "exercises/Two-Arm_Kettlebell_Military_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Two-Arm_Kettlebell_Row",
+      "source_path": "exercises/Two-Arm_Kettlebell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Underhand_Cable_Pulldowns",
+      "source_path": "exercises/Underhand_Cable_Pulldowns/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upper_Back-Leg_Grab",
+      "source_path": "exercises/Upper_Back-Leg_Grab/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upper_Back_Stretch",
+      "source_path": "exercises/Upper_Back_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upright_Barbell_Row",
+      "source_path": "exercises/Upright_Barbell_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upright_Cable_Row",
+      "source_path": "exercises/Upright_Cable_Row/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upright_Row_-_With_Bands",
+      "source_path": "exercises/Upright_Row_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Upward_Stretch",
+      "source_path": "exercises/Upward_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "V-Bar_Pulldown",
+      "source_path": "exercises/V-Bar_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "V-Bar_Pullup",
+      "source_path": "exercises/V-Bar_Pullup/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Vertical_Swing",
+      "source_path": "exercises/Vertical_Swing/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Walking,_Treadmill",
+      "source_path": "exercises/Walking,_Treadmill/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Ball_Hyperextension",
+      "source_path": "exercises/Weighted_Ball_Hyperextension/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Ball_Side_Bend",
+      "source_path": "exercises/Weighted_Ball_Side_Bend/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Bench_Dip",
+      "source_path": "exercises/Weighted_Bench_Dip/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Crunches",
+      "source_path": "exercises/Weighted_Crunches/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Jump_Squat",
+      "source_path": "exercises/Weighted_Jump_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Pull_Ups",
+      "source_path": "exercises/Weighted_Pull_Ups/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Sissy_Squat",
+      "source_path": "exercises/Weighted_Sissy_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Sit-Ups_-_With_Bands",
+      "source_path": "exercises/Weighted_Sit-Ups_-_With_Bands/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Weighted_Squat",
+      "source_path": "exercises/Weighted_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Barbell_Bench_Press",
+      "source_path": "exercises/Wide-Grip_Barbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Decline_Barbell_Bench_Press",
+      "source_path": "exercises/Wide-Grip_Decline_Barbell_Bench_Press/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Decline_Barbell_Pullover",
+      "source_path": "exercises/Wide-Grip_Decline_Barbell_Pullover/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Lat_Pulldown",
+      "source_path": "exercises/Wide-Grip_Lat_Pulldown/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Pulldown_Behind_The_Neck",
+      "source_path": "exercises/Wide-Grip_Pulldown_Behind_The_Neck/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Rear_Pull-Up",
+      "source_path": "exercises/Wide-Grip_Rear_Pull-Up/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide-Grip_Standing_Barbell_Curl",
+      "source_path": "exercises/Wide-Grip_Standing_Barbell_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide_Stance_Barbell_Squat",
+      "source_path": "exercises/Wide_Stance_Barbell_Squat/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wide_Stance_Stiff_Legs",
+      "source_path": "exercises/Wide_Stance_Stiff_Legs/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wind_Sprints",
+      "source_path": "exercises/Wind_Sprints/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Windmills",
+      "source_path": "exercises/Windmills/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "World's_Greatest_Stretch",
+      "source_path": "exercises/World's_Greatest_Stretch/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wrist_Circles",
+      "source_path": "exercises/Wrist_Circles/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wrist_Roller",
+      "source_path": "exercises/Wrist_Roller/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Wrist_Rotations_with_Straight_Bar",
+      "source_path": "exercises/Wrist_Rotations_with_Straight_Bar/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Yoke_Walk",
+      "source_path": "exercises/Yoke_Walk/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Zercher_Squats",
+      "source_path": "exercises/Zercher_Squats/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Zottman_Curl",
+      "source_path": "exercises/Zottman_Curl/exercise.json",
+      "status": "source_unreviewed"
+    },
+    {
+      "source_key": "Zottman_Preacher_Curl",
+      "source_path": "exercises/Zottman_Preacher_Curl/exercise.json",
+      "status": "source_unreviewed"
+    }
+  ]
+}
