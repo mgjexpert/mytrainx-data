@@ -1,0 +1,101 @@
+{
+  "slug": "mytrainx-start-4-weeks",
+  "title": "MyTrainX Start — 4 Weeks",
+  "goal": "Build training consistency, movement confidence and a sustainable full-body resistance-training habit.",
+  "description": "Four-week guided onboarding program using canonical MyTrainX exercise families and Coach X review rules.",
+  "difficulty": "beginner",
+  "access_policy": "registered",
+  "prerequisites": [],
+  "stages": [
+    {
+      "position": 1,
+      "title": "Week 0 — Onboarding",
+      "completion_rule": "Complete readiness, tracking and equipment setup.",
+      "items": [
+        "progress-setup",
+        "weekly-checkin-baseline",
+        "treino-de-forca-sem-complicacao-v1",
+        "recovery-sem-ruido-v1"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Week 1 — Learn the patterns",
+      "completion_rule": "Complete sessions 1A, 1B and 1C or their minimum versions.",
+      "items": [
+        "mytrainx-start-1a",
+        "mytrainx-start-1b",
+        "mytrainx-start-1c"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Week 2 — Repeat before adding",
+      "completion_rule": "Repeat A/B/C and progress at most one variable per selected movement.",
+      "items": [
+        "mytrainx-start-2a",
+        "mytrainx-start-2b",
+        "mytrainx-start-2c"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Week 3 — Build a little more work",
+      "completion_rule": "Add volume only where adherence and recovery support it.",
+      "items": [
+        "mytrainx-start-3a",
+        "mytrainx-start-3b",
+        "mytrainx-start-3c"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Week 4 — Consolidate",
+      "completion_rule": "Complete the final three sessions and Coach X review.",
+      "items": [
+        "mytrainx-start-4a",
+        "mytrainx-start-4b",
+        "mytrainx-start-4c",
+        "mytrainx-start-completion-review"
+      ]
+    }
+  ],
+  "status": "draft",
+  "metadata": {
+    "version": "1.1",
+    "source_path": "content/programs/MYTRAINX-START-V1.md",
+    "sessions_planned": 12,
+    "session_architecture": [
+      "readiness",
+      "warmup",
+      "five_primary_exercises",
+      "optional_finisher",
+      "reflection"
+    ],
+    "default_rir": "2-4 in early weeks",
+    "canonical_exercise_slugs": [
+      "agachamento-ao-banco",
+      "agachamento-livre",
+      "goblet-squat",
+      "flexao-inclinada",
+      "flexao-de-bracos",
+      "remada-unilateral-com-halter",
+      "remada-invertida",
+      "remada-baixa-no-cabo",
+      "ponte-de-gluteos",
+      "levantamento-romeno-com-halteres",
+      "afundo-estatico",
+      "desenvolvimento-com-halteres",
+      "pallof-press",
+      "prancha-lateral",
+      "elevacao-panturrilha-em-pe",
+      "caminhada-do-fazendeiro",
+      "prancha-frontal"
+    ],
+    "review_gates": [
+      "exercise",
+      "safety",
+      "editorial"
+    ]
+  }
+}
